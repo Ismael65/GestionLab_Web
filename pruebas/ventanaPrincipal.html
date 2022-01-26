@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<html>
+<head>
+    <title>Formulario prefijos</title>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <script>
+        var miPopup;
+        function abreVentana(){
+            miPopup = window.open("ventanaSegunda.html","miwin","width=300,height=400,scrollbars=yes, left=300, top=100");
+            miPopup.focus();
+        }
+        </script>
+</head>
+<body>
+
+    <form name=formul>
+        <table cellspacing="3" cellpadding="3" border="0">
+            <tr>
+                <td align="center">Prefijo</td>
+                <td align="center">Número</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <input type=text name=prefijo value="+" size=3 maxlength=3>
+                    <input type="Button" value="?" onclick="abreVentana()">
+                </td>
+                <td align="center">
+                    <input type=text name=numero value="" size=10 maxlength=10>
+                </td>
+            </tr>
+        </table>
+    </form>
+
+</body>
+</html>

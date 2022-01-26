@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!--<html>
+    <head>
+        <title>HTML a txt</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+    </head>
+    <body>
+        
+        
+
+
+        
+    </body>
+</html>-->
+
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <script type="text/javascript">
+      function linkDownload(a, filename, content) {
+        contentType =  'data:application/octet-stream,';
+        uriContent = contentType + encodeURIComponent(content);
+        a.setAttribute('href', uriContent);
+        a.setAttribute('download', filename);
+      }
+      function download(filename, content) {
+        var a = document.createElement('a');
+        linkDownload(a, filename, content);
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+      }
+    </script>
+   </head>
+  <body>
+    <a href="#" onclick="linkDownload(this, 'test.txt', 'Hello World!');">download</a>
+    <button onclick="download('test.txt', 'Hello World!');">download</button>
+  </body>
+</html>
+
+
+<!--script>
+    jQuery(function($) {
+        $('#form_addjts').submit(function(){
+            writeToFile({
+                id: $(this).find('.id').val(), 
+                content: $(this).find('.content').val()
+            });
+            return false;
+        }); 
+        function writeToFile(data){
+            var fso = new ActiveXObject("Scripting.FileSystemObject");
+            var fh = fso.OpenTextFile("C:\\data.txt", 8);
+            fh.WriteLine(data.id + ',' + data.content);
+            fh.Close(); 
+        } 
+    }); 
+</script>
+<form id="addnew">
+    <input type="text" class="id">
+    <input type="text" class="content">
+    <input type="submit" value="Add">
+</form>-->

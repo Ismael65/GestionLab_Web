@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Tabla Periodica Prueba</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <style type="text/css">
+        body{
+            width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        h1{
+            color: #0D06F5;
+            align-items: center;
+            margin-left: 150px;
+            text-shadow: #CC0000 2px 2px 4px;
+        }
+        .fondoTabla{
+            /*background: #FCAF3E;*/
+            text-align: center;
+            /*font-weight: bold;*/
+            font-size: 1.2em; 
+            border-collapse: collapse;
+            border-top: none;
+            
+        }
+        #tabla_elemento1{
+            margin-left: 40px;
+            
+            /*color: #2E3436;*/
+        }
+        #tabla_elemento2{
+            margin-left: 140px;
+            background: #888A85;
+            /*color: #2E3436;*/
+        }
+        #elementos{
+            margin-left: 20px;
+        }
+        #titulo_elemento{
+            margin-left: 30px;
+            color: #0D06F5;
+        }        
+        #H{
+            background: #417411;            
+        }
+        #Li, #Na, #K, #Rb, #Cs, #Fr{
+            background: #EF2929;            
+        }
+        #Be, #Mg, #Ca, #Sr, #Ba, #Ra{
+            background: #E3A243;
+        }
+        #Sc, #Y, #Lu, #Rf{
+            background: #D3D7CF;
+        }
+        #Ti, #Zr, #Hf, #Rf2, #V, #Nb, #Ta, #Db, #Cr, #Mo, #W, #Sg,
+        #Mn, #Tc, #Re, #Bh, #Fe, #Ru, #Os, #Hs, #Co, #Rh, #Ir, #Mt, 
+        #Ni, #Pd, #Pt, #Ds, #Cu, #Ag, #Au, #Rg, #Zn, #Cd, #Hg, #Cn{
+            background: #4E9A06;
+        }
+        #He, #Ne, #Ar, #Kr, #Xe, #Rn, #Uuo{
+            background: #5989BD;
+        }
+        #F, #Cl, #Br, #I, #At, #Uus{
+            background: #EDD400;
+        }
+        #La, #Ce, #Pr, #Nd, #Pm, #Sm, #Eu, 
+        #Gd, #Tb, #Dy, #Ho, #Er, #Tm, #Yb{
+            background: #DE04A6;
+        }
+        #Ac, #Th, #Pa, #U, #Np, #Pu, #Am, 
+        #Cm, #Bk, #Cf,#Es, #Fm, #Md, #No{
+            background: #AF28F0;
+        }
+        #B, #Si, #Ge, #As, #Sb, #Te, #Po{
+            background: #4E29DC;
+        }
+        #C, #N, #O, #P, #S, #Se{
+            background: #406E14;
+        }
+        #Al, #Ga, #In, #Tl, #Uut, 
+        #Sn, #Pb, #Fl, #Bi, #Uup, #Lv{
+            background: #F64406;
+        }
+        .union{
+          border: none;  
+        }
+        /*  VENTANA MODAL  */
+        .ventana{
+                background: #00A8CC;
+                width: 60%;
+                color: #FCE94F;
+                font-family: sans-serif, Helvetica, Arial;
+                font-size: 18px;
+                text-align: center;
+                padding: 33px;
+                main-height: 250px;
+                border-radius: 22px;
+                position: absolute;
+                left: 20%;
+                top: 20%;                   
+                display: none;
+            }            
+            #abrirVentana{                
+                width: 30%;
+                position: absolute;
+                left: 36%;
+                top: 20%;
+            }
+            #cerrar img{
+                position: absolute;
+                right: 3px;
+                top: 1px;
+            }
+        /* BOTONES DE LA TABLA PERIODICA */
+        button{
+            width: 30px;
+            height: 30px;
+            border: none;
+            padding: 0px;
+            font-size: 0.8em;
+        }
+        #borrarElementos{
+            width: 10%;
+            position: absolute;
+            left: 45%;
+            top: 91%;
+            border: solid 1px;
+            color: #0D06F5;
+            background-color: #00A8CC;
+            text-decoration: none;
+        }
+    </style>
+    <script type="text/javascript">
+        document.getElementById("elementos").value="";
+        
+        function abrir(){
+                document.getElementById("vent").style.display="block";
+            }
+            function cerrar(){
+                document.getElementById("vent").style.display="none";
+            }
+            
+        
+        function obten(id){
+               
+            document.getElementById("elementos").value+=id + ", ";
+                //puedes almacenarla en una varible y hacer uso de ese valor en diferentes formas                
+         }
+         function borrar(){
+             document.getElementById("elementos").value="";
+             
+         }
+         
+    </script>
+        
+    <body>
+        
+        <div class="ventana" id="vent">
+                <div id="cerrar">
+                    <a href="javascript: cerrar()"><img src="imagenes/cerrar.png" width="30"/></a><br>
+        <h1>TABLA DE ELEMENTOS</h1>
+        <table border="1" width="1" class="fondoTabla" id="tabla_elemento1">
+            
+            <tbody>
+                <tr>
+                    
+                    <td><button id="H" onclick="obten(id);">H</button></td>
+                    <td colspan="16" class="union"></td>
+                    <td><button id="He" onclick="obten(id);">He</button></td>
+                </tr>
+                <tr>
+                    <td><button id="Li" onclick="obten(id);">Li</button></td>
+                    <td><button id="Be" onclick="obten(id);">Be</button></td>
+                    <td colspan="10" class="union"></td>
+                    <td><button id="B" onclick="obten(id);">B</button></td>
+                    <td><button id="C" onclick="obten(id);">C</button></td>
+                    <td><button id="N" onclick="obten(id);">N</button></td>
+                    <td><button id="O" onclick="obten(id);">O</button></td>
+                    <td><button id="F" onclick="obten(id);">F</button></td>
+                    <td><button id="Ne" onclick="obten(id);">Ne</button></td>
+                </tr>
+                <tr>
+                    <td><button id="Na" onclick="obten(id);">Na</button></td>
+                    <td><button id="Mg" onclick="obten(id);">Mg</button></td>
+                    <td colspan="10" class="union"></td>
+                    
+                    <td><button id="Al" onclick="obten(id);">Al</button></td>
+                    <td><button id="Si" onclick="obten(id);">Si</button></td>
+                    <td><button id="P" onclick="obten(id);">P</button></td>
+                    <td><button id="S" onclick="obten(id);">S</button></td>
+                    <td><button id="Cl" onclick="obten(id);">Cl</button></td>
+                    <td><button id="Ar" onclick="obten(id);">Ar</button></td>
+                </tr>
+                <tr>
+                    <td><button id="K" onclick="obten(id);">K</button></td>
+                    <td><button id="Ca" onclick="obten(id);">Ca</button></td>
+                    <td><button id="Sc" onclick="obten(id);">Sc</button></td>
+                    <td><button id="Ti" onclick="obten(id);">Ti</button></td>
+                    <td><button id="V" onclick="obten(id);">V</button></td>
+                    <td><button id="Cr" onclick="obten(id);">Cr</button></td>
+                    <td><button id="Mn" onclick="obten(id);">Mn</button></td>
+                    <td><button id="Fe" onclick="obten(id);">Fe</button></td>
+                    <td><button id="Co" onclick="obten(id);">Co</button></td>
+                    <td><button id="Ni" onclick="obten(id);">Ni</button></td>
+                    <td><button id="Cu" onclick="obten(id);">Cu</button></td>
+                    <td><button id="Zn" onclick="obten(id);">Zn</button></td>
+                    <td><button id="Ga" onclick="obten(id);">Ga</button></td>
+                    <td><button id="Ge" onclick="obten(id);">Ge</button></td>
+                    <td><button id="As" onclick="obten(id);">As</button></td>
+                    <td><button id="Se" onclick="obten(id);">Se</button></td>
+                    <td><button id="Br" onclick="obten(id);">Br</button></td>
+                    <td><button id="Kr" onclick="obten(id);">Kr</button></td>
+                </tr>
+                <tr>
+                    <td><button id="Rb" onclick="obten(id);">Rb</button></td>
+                    <td><button id="Sr" onclick="obten(id);">Sr</button></td>
+                    <td><button id="Y" onclick="obten(id);">Y</button></td>
+                    <td><button id="Zr" onclick="obten(id);">Zr</button></td>
+                    <td><button id="Nb" onclick="obten(id);">Nb</button></td>
+                    <td><button id="Mo" onclick="obten(id);">Mo</button></td>
+                    <td><button id="Tc" onclick="obten(id);">Tc</button></td>
+                    <td><button id="Ru" onclick="obten(id);">Ru</button></td>
+                    <td><button id="Rh" onclick="obten(id);">Rh</button></td>
+                    <td><button id="Pd" onclick="obten(id);">Pd</button></td>
+                    <td><button id="Ag" onclick="obten(id);">Ag</button></td>
+                    <td><button id="Cd" onclick="obten(id);">Cd</button></td>
+                    <td><button id="In" onclick="obten(id);">In</button></td>
+                    <td><button id="Sn" onclick="obten(id);">Sn</button></td>
+                    <td><button id="Sb" onclick="obten(id);">Sb</button></td>
+                    <td><button id="Te" onclick="obten(id);">Te</button></td>
+                    <td><button id="I" onclick="obten(id);">I</button></td>
+                    <td><button id="Xe" onclick="obten(id);">Xe</button></td>
+                </tr>
+                <tr>
+                    <td><button id="Cs" onclick="obten(id);">Cs</button></td>
+                    <td><button id="Ba" onclick="obten(id);">Ba</button></td>
+                    <td><button id="Lu" onclick="obten(id);">Lu</button></td>
+                    <td><button id="Hf" onclick="obten(id);">Hf</button></td>
+                    <td><button id="Ta" onclick="obten(id);">Ta</button></td>
+                    <td><button id="W" onclick="obten(id);">W</button></td>
+                    <td><button id="Re" onclick="obten(id);">Re</button></td>
+                    <td><button id="Os" onclick="obten(id);">Os</button></td>
+                    <td><button id="Ir" onclick="obten(id);">Ir</button></td>
+                    <td><button id="Pt" onclick="obten(id);">Pt</button></td>
+                    <td><button id="Au" onclick="obten(id);">Au</button></td>
+                    <td><button id="Hg" onclick="obten(id);">Hg</button></td>
+                    <td><button id="Tl" onclick="obten(id);">Tl</button></td>
+                    <td><button id="Pb" onclick="obten(id);">Pb</button></td>
+                    <td><button id="Bi" onclick="obten(id);">Bi</button></td>
+                    <td><button id="Po" onclick="obten(id);">Po</button></td>
+                    <td><button id="At" onclick="obten(id);">At</button></td>
+                    <td><button id="Rn" onclick="obten(id);">Rn</button></td>
+                </tr>
+                <tr>
+                    <td><button id="Fr" onclick="obten(id);">Fr</button></td>
+                    <td><button id="Ra" onclick="obten(id);">Ra</button></td>
+                    <td><button id="Rf" onclick="obten(id);">Rf</button></td>
+                    <td><button id="Rf2" onclick="obten(id);">Rf</button></td>
+                    <td><button id="Db" onclick="obten(id);">Db</button></td>
+                    <td><button id="Sg" onclick="obten(id);">Sg</button></td>
+                    <td><button id="Bh" onclick="obten(id);">Bh</button></td>
+                    <td><button id="Hs" onclick="obten(id);">Hs</button></td>
+                    <td><button id="Mt" onclick="obten(id);">Mt</button></td>
+                    <td><button id="Ds" onclick="obten(id);">Ds</button></td>
+                    <td><button id="Rg" onclick="obten(id);">Rg</button></td>
+                    <td><button id="Cn" onclick="obten(id);">Cn</button></td>
+                    <td><button id="Uut" onclick="obten(id);">Uut</button></td>
+                    <td><button id="Fl" onclick="obten(id);">Fl</button></td>
+                    <td><button id="Uup" onclick="obten(id);">Uup</button></td>
+                    <td><button id="Lv" onclick="obten(id);">Lv</button></td>
+                    <td><button id="Uus" onclick="obten(id);">Uus</button></td>
+                    <td><button id="Uuo" onclick="obten(id);">Uuo</button></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <table border="1" width="1" class="fondoTabla" id="tabla_elemento2">            
+            <tbody>
+                <tr>
+                    <td><button id="La" onclick="obten(id);">La</button></td>
+                    <td><button id="Ce" onclick="obten(id);">Ce</button></td>
+                    <td><button id="Pr" onclick="obten(id);">Pr</button></td>
+                    <td><button id="Nd" onclick="obten(id);">Nd</button></td>
+                    <td><button id="Pm" onclick="obten(id);">Pm</button></td>
+                    <td><button id="Sm" onclick="obten(id);">Sm</button></td>
+                    <td><button id="Eu" onclick="obten(id);">Eu</button></td>
+                    <td><button id="Gd" onclick="obten(id);">Gd</button></td>
+                    <td><button id="Tb" onclick="obten(id);">Tb</button></td>
+                    <td><button id="Dy" onclick="obten(id);">Dy</button></td>
+                    <td><button id="Ho" onclick="obten(id);">Ho</button></td>
+                    <td><button id="Er" onclick="obten(id);">Er</button></td>
+                    <td><button id="Tm" onclick="obten(id);">Tm</button></td>
+                    <td><button id="Yb" onclick="obten(id);">Yb</button></td>
+                </tr>
+                <tr>
+                    <td><button id="Ac" onclick="obten(id);">Ac</button></td>
+                    <td><button id="Th" onclick="obten(id);">Th</button></td>
+                    <td><button id="Pa" onclick="obten(id);">Pa</button></td>
+                    <td><button id="U" onclick="obten(id);">U</button></td>
+                    <td><button id="Np" onclick="obten(id);">Np</button></td>
+                    <td><button id="Pu" onclick="obten(id);">Pu</button></td>
+                    <td><button id="Am" onclick="obten(id);">Am</button></td>
+                    <td><button id="Cm" onclick="obten(id);">Cm</button></td>
+                    <td><button id="Bk" onclick="obten(id);">Bk</button></td>
+                    <td><button id="Cf" onclick="obten(id);">Cf</button></td>
+                    <td><button id="Es" onclick="obten(id);">Es</button></td>
+                    <td><button id="Fm" onclick="obten(id);">Fm</button></td>
+                    <td><button id="Md" onclick="obten(id);">Md</button></td>
+                    <td><button id="No" onclick="obten(id);">No</button></td>
+                </tr>
+            </tbody>
+        </table>
+        <h5 id="titulo_elemento">Elementos a Seleccionar</h5>
+        <textarea id="elementos" cols="90" rows="5"></textarea><br>
+        <button><a href="javascript: borrar()" id="borrarElementos">Borrar Elementos</a></button>
+            </div>            
+            </div>
+        
+            <section id="contenedor">
+                <button><a href="javascript: abrir()" id="abrirVentana">Seleccionar Elementos</a></button>                
+            </section>
+        
+    
+       
+        
+    </body>
+</html>

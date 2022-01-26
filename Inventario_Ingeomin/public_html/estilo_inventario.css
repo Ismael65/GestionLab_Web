@@ -1,0 +1,87 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10/06/2021, 11:06:53 AM
+    Author     : ismael
+*/
+
+
+#titulo_principal h2{    
+    color: #0806A2;
+    font-size: 2em;    
+    margin-left: 200px;
+    margin-bottom: 0px;
+    padding-bottom: 50px;
+    /*text-align: center;*/
+    text-shadow: -4px 4px 3px #EDD400;
+    position: relative;
+}
+hr{
+    margin-left: 0px;
+    
+}
+#titulo_principal img{
+    height: 122px;
+    position: absolute;
+    margin-top: -30px;
+    margin-bottom: 10px;
+}
+h4{
+    color: #0806A2;
+    /*border-top: 2px solid #2B28AB;*/
+    padding-top: 0;
+    margin-left: 50px;
+    /*text-align: center;*/
+}
+#cuerpo{                
+    background-image: url("imagen/Fondo.png");
+    background-size: cover;
+    /*background: linear-gradient(to left, #BC9F00, #4F6D06);*/
+    width: 950px;
+    margin: 0 auto;
+    border: 2px solid white;
+    padding: 2px;    
+}
+#cuerpo #barra_navegacion{
+    font-size: 0.5em;
+    color: #0806A2;        
+    margin-left: 900px;    
+}
+/* Estilo de Pie de pagina */
+#pie_pagina img{
+    width: 20px;
+}
+#botones .boton{
+    float: right;
+    margin: 3px 10px 5px 2px;
+    padding: 3px;
+    font-weight: bold;
+}
+.sel_viahumeda{
+    margin-left: 20px;
+    width: 900px;
+}
+#f1 button{    
+    width: 100px;
+    height: 100px;
+    margin-left: 100px; 
+    margin-bottom: 100px;
+    margin-top: 150px;
+    background-color: #ADA302;
+    border: none;    
+}
+#f1 .img1{
+    width: 120px;
+    height: 120px;
+}
+#f1 .img2{
+    width: 120px;
+    height: 120px;
+}
+#f1 .img3{
+    width: 120px;
+    height: 120px;
+}

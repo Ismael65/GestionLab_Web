@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Ventana Modal</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style type="text/css">
+            .ventana{
+                background: rgba(0,0,102,1);
+                width: 30%;
+                color: rgba(255,255,255,1);
+                font-family: sans-serif, Helvetica, Arial;
+                font-size: 18px;
+                text-align: center;
+                padding: 33px;
+                main-height: 250px;
+                border-radius: 22px;
+                position: absolute;
+                left: 34%;
+                top: 35%;
+                display: none;
+            }            
+            #abrirVentana{                
+                width: 30%;
+                position: absolute;
+                left: 36%;
+                top: 35%;
+            }
+            #cerrar img{
+                position: absolute;
+                right: 3px;
+                top: 1px;
+            }
+        </style>
+        <script>
+            function abrir(){
+                document.getElementById("vent").style.display="block";
+            }
+            function cerrar(){
+                document.getElementById("vent").style.display="none";
+            }
+        </script>
+    </head>
+    <body>
+        
+            <section id="contenedor">
+                <a href="javascript: abrir()" id="abrirVentana">Abrir Ventana</a>                
+            </section>
+            
+                <div class="ventana" id="vent">
+                <div id="cerrar">
+                    <a href="javascript: cerrar()"><img src="imagenes/cerrar.png" width="30"/></a><br>
+                    Bienvenidos a nuestra pagina web
+                </div>
+            </div>
+    </body>
+</html>

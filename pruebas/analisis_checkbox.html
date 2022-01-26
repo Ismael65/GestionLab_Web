@@ -1,0 +1,111 @@
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Analisis y Checkbox</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+                
+        <script src="js/jquery-1.7.1.min.js"></script>
+        <!--<script src="js/jquery-ui-1.8.17.custom.min.js"></script>-->
+        <!--<script src="js/basic.js"></script>-->
+        <script src="js/jspdf.debug.js"></script>
+         
+    <script>
+
+    function capturar(){
+
+var petrografia1=document.getElementById("petrografia").checked;
+if(petrografia1==true){
+    petrografia1="X";
+}else{
+    petrografia1="";
+}
+var drx1=document.getElementById("drx").checked;
+if(drx1==true){
+    drx1="X";
+}else{
+    drx1="";
+}
+var meb1=document.getElementById("meb").checked;
+if(meb1==true){
+    meb1="X";
+}else{
+    meb1="";
+}
+var frx1=document.getElementById("frx").checked;
+if(frx1==true){
+    frx1="X";
+}else{
+    frx1="";
+}
+var icp1=document.getElementById("icp").checked;
+if(icp1==true){
+    icp1="X";
+}else{
+    icp1="";
+}
+var quimico1=document.getElementById("quimico").checked;
+if(quimico1==true){
+    quimico1="X";
+}else{
+    quimico1="";
+}
+
+                document.getElementById("resultado").innerHTML=
+            " \ Petrografia: " + petrografia1 + 
+            " \ <br> DRX: " + drx1 + 
+            " \ <br> MEB: " + meb1 +
+            " \ <br> FRX: " + frx1 +
+            " \ <br> ICP: " + icp1 +
+            " \ <br> Quimico: " + quimico1;
+            
+    
+    }
+    </script>
+
+    <style>
+        form   {width:300px;height:350px;border:1px solid #ccc;padding:10px;}
+    </style>
+
+</head>
+
+<body>
+
+    <h1>Obtener el valor de un input type=checkbox de varias maneras</h1>
+
+    <form id="form1">
+
+        Nombre:<br><input type="text" name="nombre" value="jose" id="nombre" class="formulario"> 
+
+        <label for="petrografia" class="">Petrografia:</label><input type="checkbox" id="petrografia" name="petrografia" value="petrografia"/>
+                        <label for="drx" class="">DRX:</label><input type="checkbox" id="drx" name="drx" value="drx"/>
+                        <label for="meb" class="">MEB:</label><input type="checkbox" id="meb" name="meb" value="meb"/>
+                        <label for="frx" class="">FRX:</label><input type="checkbox" id="frx" name="frx" value="frx"/>
+                        <label for="icp" class="">ICP:</label><input type="checkbox" id="icp" name="icp" value="icp"/><br>
+                        <label for="quimico" class="">Químico: </label><input type="checkbox" id="quimico" name="quimico" value="quimico"/> 
+
+        <p>Deacuerdo: Si<input type="radio" name="deacuerdo" value="si"> No<input type="radio" name="deacuerdo" value="no"></p>
+        <p>
+        <select name="seleccion" id="seleccion" class="formulario_select">
+            <option value="1">primera</option>
+            <option value="2">segunda</option>
+        </select>
+        </p>      
+
+    </form>
+
+    <input type="button" value="Esta seleccionado el checkbox" onclick="capturar();">
+
+    <div id="resultado"></div>
+    
+    <!--<p><a href="http://www.lawebdelprogramador.com">http://www.lawebdelprogramador.com</a></p>-->
+
+</body>
+
+</html>

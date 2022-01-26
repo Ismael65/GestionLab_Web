@@ -1,0 +1,45 @@
+<html>
+<head></head>
+<body>
+<script type="text/javascript">
+function load_html(){
+    var xml=new XMLHttpRequest();
+    if(xml){
+        xml.open("GET", "inventario.txt", false);
+        xml.send(null);
+        document.getElementById('test').innerHTML=xml.responseText;
+        document.getElementById('test2').innerHTML=xml.responseText;
+}
+}
+window.onload=load_html;
+function actualizar(select){
+            var val = select.value;
+            document.getElementById('eltexto').value+=val + "\n";
+            /*document.getElementById('eltexto2').value += val;*/
+            
+}
+</script>
+<style type="text/css">
+    #test2{
+        width: 800px;
+    }
+</style>
+<style type="text/css">
+    html{
+        background: url("../public_html/imagenes/Fondo.png");
+        /*background-repeat: repeat;*/
+        background-size: cover;
+    }
+</style>
+<!--<div id="test"></div>-->
+<!--<pre id="test"></pre>-->
+
+<textarea id="test" cols="100" rows="10"></textarea>
+<br>
+<select id="test2"  onChange="actualizar(this)" size="10">
+    
+</select>
+<br><br>
+<textarea id="eltexto" rows="10" cols="100"></textarea>
+</body>
+</html>

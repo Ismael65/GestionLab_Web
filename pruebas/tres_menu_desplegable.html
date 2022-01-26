@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Tres Menu Desplegables</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="municipio_parroquia.js" type="text/javascript"></script>
+        <script>
+            function mostrar(){
+var estado = document.getElementById("firstChoice");
+var estado1 = estado.options[estado.selectedIndex].text;
+var municipio = document.getElementById("secondChoice");
+var municipio1 = municipio.options[municipio.selectedIndex].text;
+var parroquia = document.getElementById("thirdChoice");
+var parroquia1 = parroquia.options[parroquia.selectedIndex].text;
+            
+            document.getElementById("resultado").innerHTML=
+
+            " \ Estado: " + estado1 + 
+            " \ <br> Municipio: " + municipio1 + 
+            " \ <br> Parroquia: " + parroquia1;
+            }
+            
+        </script>
+        
+    </head>
+    <body style="font-family: Verdana">
+        <form name=myChoices>
+            <div align="center">
+
+                <label>Estado  </label><label>Municipio  </label><label>Parroquia</label><br>
+                        <SELECT id=firstChoice name=firstChoice onchange="selectChange(this, myChoices.secondChoice, arrItems1, arrItemsGrp1);">
+                            <option value=0 SELECTED>[Selecciona]</option>
+                            <option value=1>Amazonas</option>
+                            <option value=2>Anzoátegui</option>
+                            <option value=3>Apure</option>
+                            <option value=4>Aragua</option>
+                            <option value=5>Barinas</option>
+                            <option value=6>Bolívar</option>
+                            <option value=7>Carabobo</option>
+                            <option value=8>Cojedes</option>
+                            <option value=9>Delta Amacuro</option>
+                            <option value=10>Distrito Capital</option>
+                            <option value=11>Falcón</option>
+                            <option value=12>Guárico</option>
+                            <option value=13>Lara</option>
+                            <option value=14>Mérida</option>
+                            <option value=15>Miranda</option>
+                            <option value=16>Monagas</option>
+                            <option value=17>Nueva Esparta</option>
+                            <option value=18>Portuguesa</option>
+                            <option value=19>Sucre</option>
+                            <option value=20>Táchira</option>
+                            <option value=21>Trujillo</option>
+                            <option value=22>Vargas</option>
+                            <option value=23>Yaracuy</option>
+                            <option value=24>Zulia</option>
+                               
+                        </SELECT>
+                    
+                        
+                        <SELECT id=secondChoice name=secondChoice onchange="selectChange(this, myChoices.thirdChoice, arrItems2, arrItemsGrp2);">                            
+                        </SELECT>
+                    
+                        
+                        <SELECT id=thirdChoice name=thirdChoice>                            
+                        </SELECT>
+                <br>
+                <input type="button" value="Mostrar" class="boton" onclick="javascript:mostrar();">
+                <br>
+                 <div id="resultado"></div>   
+            </div>
+        </form>
+                        
+    </body>
+</html>
+
+

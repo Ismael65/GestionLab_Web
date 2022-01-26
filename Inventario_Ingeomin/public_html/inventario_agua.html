@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Inventario Lab. Agua</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="imagen/LogoIngeomin.ico">
+        <link href="estilo_inventario.css" rel="stylesheet" type="text/css"/>
+        
+        <script type="text/javascript">
+        
+        function load_html(){
+            var xml=new XMLHttpRequest();
+            if(xml){
+                xml.open("GET", "inventarioagua.txt", false);
+                xml.send(null);
+                
+                document.getElementById('test2').innerHTML=xml.responseText;
+            }
+        }
+        window.onload=load_html;
+            function actualizar(select){
+            var val = select.value;
+            document.getElementById('eltexto').value += val + "\n";
+            /*document.getElementById('eltexto2').value += val;*/
+}
+        </script>
+        
+        
+        
+    </head>
+    <body id="cuerpo">
+        <div id="titulo_principal" class="titulo_principal">
+        <img src="imagen/logoingeomin.png"/>
+        <h2>Inventario Laboratorio de Agua</h2>    
+        </div>
+        <header>
+            <nav id="barra_navegacion">
+                <a href="index.html"><img src="imagen/inicio1.png"/><br></a>                
+            </nav>
+        </header>
+        <div id="lista_inventario">
+            <hr>
+            <h4>Inventario </h4>            
+            
+            <select id="test2" class="sel_viahumeda" onChange="actualizar(this)" size="20">
+    
+            </select>
+            <br>
+        </div>
+        <!--<div>
+            
+            <h4>Seleccione un item</h4>
+            
+            <textarea id="eltexto" class="sel_viahumeda" rows="10" cols="130"></textarea>
+        </div>-->
+        <br>
+        <!--<div id="botones">
+            <hr>                
+            <input type="submit" value="Guardar" class="boton">
+            <input type="reset" class="boton">
+        </div>-->
+        <br>
+        <footer id="pie_pagina">
+            <div id="pie">
+                <hr>
+                <span><strong>Realizado por:</strong></span>
+                <img src="imagen/diablo.png" name="diablo" id="diablo"/>
+                <span>imosquerad@yahoo.com.mx</span>
+                <img src="imagen/instagram.png" name="instagram" id="instagram"/>
+                <span>@imosquerad_mineral</span>
+            </div>
+        </footer>
+    </body>
+</html>

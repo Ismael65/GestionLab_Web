@@ -1,0 +1,148 @@
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Checkbox y PDF</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+                
+        <script src="js/jquery-1.7.1.min.js"></script>
+        <!--<script src="js/jquery-ui-1.8.17.custom.min.js"></script>-->
+        <!--<script src="js/basic.js"></script>-->
+        <script src="js/jspdf.debug.js"></script>
+         
+    <script>
+
+    function capturar(){
+
+        // obtenemos e valor por el numero de elemento
+
+        var porElementos=document.forms["form1"].elements[1].checked;
+
+        // Obtenemos el valor por el id
+
+        var porId=document.getElementById("acepto").checked;
+
+        // Obtenemos el valor por el Nombre
+
+        var porNombre=document.getElementsByName("acepto")[0].checked;
+
+        // Obtenemos el valor por el tipo de tag
+
+        var porTagName=document.getElementsByTagName("input")[1].checked;
+
+        // Obtenemos el valor por el nombre de la clase
+
+        var porClassName=document.getElementsByClassName("formulario_check")[0].checked;
+
+var geologica1=document.getElementById("geologica").checked;
+if(geologica1==true){
+    geologica1="X";
+}else{
+    geologica1="";
+}
+var agua1=document.getElementById("agua").checked;
+if(agua1==true){
+    agua1="X";
+}else{
+    agua1="";
+}
+var suelo1=document.getElementById("suelo").checked;
+if(suelo1==true){
+    suelo1="X";
+}else{
+    suelo1="";
+}
+var polvo1=document.getElementById("polvo").checked;
+if(polvo1==true){
+    polvo1="X";
+}else{
+    polvo1="";
+}
+
+                document.getElementById("resultado").innerHTML=
+
+            " \ Porelementos: " + porElementos + 
+            " \ <br>Por ID: " + porId + 
+            " \ <br>Por Nombre: " + porNombre +
+            " \ <br>Por TagName: " + porTagName +
+            " \ <br>Por ClassName: " + porClassName +
+            " \ <br>Geologica: " + geologica1 + 
+            " \ <br>Agua: " + agua1 + 
+            " \ <br>Suelo " + suelo1 +
+            " \ <br>Polvo: " + polvo1;
+
+
+
+            /*document.getElementById("resultado2").innerHTML=*/
+            
+    }
+
+    </script>
+
+ 
+
+    <style>
+
+        form   {width:250px;height:350px;border:1px solid #ccc;padding:10px;}
+
+    </style>
+
+</head>
+
+ 
+
+<body>
+
+    <h1>Obtener el valor de un input type=checkbox de varias maneras</h1>
+
+    <form id="form1">
+
+        Nombre:<br><input type="text" name="nombre" value="jose" id="nombre" class="formulario">
+
+ 
+
+        <p><input type="checkbox" name="acepto" id="acepto" class="formulario_check"> Acepto el contrato</p>
+        <p><input type="checkbox" id="geologica" name="geologica" value="geologica" value="X"/>Geologica</p>
+        <p><input type="checkbox" id="agua" name="agua" value="agua" value="X"/>Agua</p>
+        <p><input type="checkbox" id="suelo" name="suelo" value="suelo" value="X"/>Suelo</p>
+        <p><input type="checkbox" id="polvo" name="polvo" value="polvo" value="X"/>Polvo</p>
+ 
+
+        <p>Deacuerdo: Si<input type="radio" name="deacuerdo" value="si"> No<input type="radio" name="deacuerdo" value="no"></p>
+
+ 
+
+        <p>
+
+        <select name="seleccion" id="seleccion" class="formulario_select">
+
+            <option value="1">primera</option>
+
+            <option value="2">segunda</option>
+
+        </select>
+
+        </p>
+        
+
+    </form>
+
+    <input type="button" value="Esta seleccionado el checkbox" onclick="capturar();">
+
+    <div id="resultado"></div>
+    <br>
+    <div id="resultado2"></div>
+
+ 
+
+    <!--<p><a href="http://www.lawebdelprogramador.com">http://www.lawebdelprogramador.com</a></p>-->
+
+</body>
+
+</html>

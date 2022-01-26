@@ -1,0 +1,70 @@
+<!DOCTYPE html5>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Prueba_PDF</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <script src="js/jquery-1.7.1.min.js"></script>
+        <!--<script src="js/jquery-ui-1.8.17.custom.min.js"></script>-->
+        <!--<script src="js/basic.js"></script>-->
+        <script src="js/jspdf.debug.js"></script>
+        <!--<script src="js/prueba_PDF.js"></script> -->
+        
+        <script>
+            function crearPDF() {
+        var valor = document.getElementById("nombre").value;        
+        var pdf = new jsPDF('p', 'pt', 'letter');
+        source = $('#cuerpo')[0];
+
+        specialElementHandlers = {
+            '#bypassme': function (element, renderer) {
+                return true;
+            }
+        };
+        margins = {
+            top: 80,
+            bottom: 60,
+            left: 40,
+            width: 522
+        };
+
+        pdf.fromHTML(
+            source, 
+            margins.left, // x coord
+            margins.top, { // y coord
+                'width': margins.width, 
+                'elementHandlers': specialElementHandlers
+            },
+
+            function (dispose) {
+                pdf.save(valor + '.pdf');
+            }, margins
+        );
+    }
+        </script>
+        
+    </head>
+    <body id="cuerpo">
+        
+        
+        <div id="imprimir">
+            <h1>Hola mundo</h1>
+            <label for="nombre">Nombre: <input type="text" id="nombre" value></label>
+            <br>
+            <img src="imagenes/diablo.png"/>
+            <br>
+            <h1>  
+                Esto es un DIV impreso en PDF
+            </h1>
+            <a href="javascript:crearPDF()" class="button">Generar PDF</a>
+        </div>
+
+
+    </body>
+</html>

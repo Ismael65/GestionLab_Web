@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Inventario</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="imagenes/LogoIngeomin.ico">
+        <link href="css/estilo_GestionLab.css" rel="stylesheet" type="text/css"/>
+        
+        <script type="text/javascript">
+        
+        function load_html(){
+            var xml=new XMLHttpRequest();
+            if(xml){
+                xml.open("GET", "archivoTexto/inventario.txt", false);
+                xml.send(null);
+                
+                document.getElementById('test2').innerHTML=xml.responseText;         
+            }
+        }
+        window.onload=load_html;
+            function actualizar(select){
+            var val = select.value;
+            document.getElementById('eltexto').value += val + "\n";
+            /*document.getElementById('eltexto2').value += val;*/
+            }
+    
+        function reset(){
+                document.getElementById('eltexto').value="";                
+            }
+    
+        </script>
+        
+        
+        
+    </head>
+    <body id="cuerpo">
+        <div id="titulo_principal" class="titulo_principal">
+        <img src="imagenes/logoingeomin.png"/>
+        <h2 id="titulo">Inventario</h2>    
+        </div>
+        <header>
+            <nav id="barra_navegacion">
+                <a href="menu_principal.html"><img src="imagenes/inicio1.png" /><br></a>                
+            </nav>
+        </header>
+        <div id="lista_inventario">
+            <hr>
+            <h4>Inventario</h4>            
+           
+            <select id="test2" class="sel_inv" onChange="actualizar(this)" size="10">
+    
+            </select>
+            <br>
+        </div>
+        <div>
+            
+            <h4>Seleccione un item</h4>
+            
+            <textarea id="eltexto" class="sel_inv" rows="10" cols="130"></textarea>
+        </div>
+        <br>
+        <div id="botones">
+            <hr>                
+            <input type="submit" value="Guardar" class="boton">
+            <input type="reset" class="boton" onclick="javascript:reset();">
+        </div>
+        <br>
+        <footer id="pie_pagina">
+            <div id="pie">
+                <hr>
+                <img src="imagenes/diablo.png" name="diablo" id="diablo"/>
+                <span>imosquerad@yahoo.com.mx</span>
+                <img src="imagenes/instagram.png" name="instagram" id="instagram"/>
+                <span>@imosquerad_mineral</span>
+            </div>
+        </footer>
+    </body>
+</html>

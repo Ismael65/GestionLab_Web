@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+ <html lang="es">
+     <head>
+        <title>Solicitud</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="imagenes/LogoIngeomin.ico">
+        
+        <link href="estilo_GestionLab.css" rel="stylesheet" type="text/css"/>        
+        <script src="estado_municipio.js" type="text/javascript"></script>
+    </head>
+    
+    <body id="cuerpo">
+        <h2>Solicitud de Análisis</h2>
+        <header>
+            <nav id="barra_navegacion">
+                <a href="menu_principal.html"><img src="imagenes/inicio1.png"/><br></a>                
+            </nav>
+        </header>
+        <div>
+    <form name="ejemplo2" method="POST" target="_blank" action="">
+        <hr>
+                <div id="cliente">
+                    <h4>CLIENTE</h4>
+                    <label for="solicitud" class=""> Solicitud: </label><input type="text" name="solicitud" id="solicitud" value="" size="10" required=""/>
+                    <label for="fecha" class="">Fecha: </label><input type="date" name="fecha" id="fecha" value="" size="10" required=""/><br>
+                    <label for="cedula" class="">Cedula: </label><input type="text" name="cedula" id="cedula" value="" size="10" required=""/>
+                    <label for="nombre" class="">Nombre: </label><input type="text" name="nombre" id="nombre" value="" size="15" required=""/>
+                    <label for="apellido" class="">Apellido: </label><input type="text" name="apellido" id="apellido" value="" size="15" required=""/><br>
+                    <label for="telf_celular" class="">Telf. Celular: </label><input type="tel" name="telf_celular" id="telf_celular" value="" size="10" required=""/>
+                    <label for="telf_fijo" class="">Telf. Fijo: </label><input type="text" name="telf_fijo" id="telf_fijo" placeholder="(0212)" value="" size="10"/>
+                    <label for="correo" class="">Correo: </label><input type="email" name="correo" id="correo" placeholder="PedroPerez@gmail.com" value="" size="15" required=""/>
+                </div>
+                <div id="muestra">
+                    <hr>
+                    <h4>MUESTRA</h4>
+                    <label for="cantidad" class="">Cantidad: </label><input type="number" name="cantidad" id="cantidad" min="1" max="1000" value="" size="8" required=""/>
+                    <label for="nom_muestra" class="">Nombre Muestra(s): </label><textarea  name="nombre_muestra" id="nombre_muestra" cols="40" rows="3" placeholder="Nombre de la(s) Muestra(s)" required=""></textarea><br>
+                    <label for="geologica" class="">Geológica:</label><input type="checkbox" name="tipo_muestra" value="geologica" />
+                    <label for="agua" class="">Agua:</label><input type="checkbox" name="tipo_muestra" value="agua" />
+                    <label for="suelo" class="">Suelo:</label><input type="checkbox" name="tipo_muestra" value="suelo" />
+                    <label for="polvo" class=""> Polvo:</label><input type="checkbox" name="tipo_muestra" value="polvo" />
+                    <label for="otro" class="">Otro:</label><input type="text" name="otro_muestra" id="otro_muestra" value=""/>
+                </div>
+        
+        <div id="procedencia">
+            <hr>
+            <h4>PROCEDENCIA</h4>
+            <!-- Estado -->
+            <label for="estado" class="">Estado:</label>
+
+            <select name="tipos" onChange="agregarOpciones(this.form)">
+
+                <option value="">seleccione una ESTADO</option>
+
+                <option value="amazonas">Amazonas</option>
+                <option value="anzoategui">Anzoátegui</option>
+                <option value="apure">Apure</option>
+                <option value="aragua">Aragua</option>
+                <option value="barinas">Barinas</option>
+                <option value="bolivar">Bolívar</option>
+                <option value="carabobo">Carabobo</option>
+                <option value="cojedes">Cojedes</option>
+                <option value="deltaamacuro">Delta Amacuro</option>
+                <option value="falcon">Falcon</option>
+                <option value="guarico">Guárico</option>
+                <option value="lara">Lara</option>
+                <option value="merida">Mérida</option>
+                <option value="miranda">Miranda</option>
+                <option value="monagas">Monagas</option>
+                <option value="nuevaesparta">Nueva Esparta</option>
+                <option value="portuguesa">Portuguesa</option>
+                <option value="sucre">Sucre</option>
+                <option value="tachira">Táchira</option>
+                <option value="trujillo">Trujillo</option>
+                <option value="vargas">Vargas</option>
+                <option value="yaracuy">Yaracuy</option>
+                <option value="zulia">Zulia</option>            
+
+            </select>
+            <label for="municipio" class="">Municipio</label>
+            <select name="estilo" onChange="dirección(this.form)">
+
+                <option value="">seleccione una MUNICIPIO</option>
+
+            </select>
+              
+
+        </div>
+        <div id="tipo_analisis">
+                    <hr>
+                    <h4>TIPO DE ANÁLISIS</h4>
+                    
+                        <label for="petrografia" class="">Petrografia:</label><input type="checkbox" name="petrografia" value="petrografia"/>
+                        <label for="drx" class="">DRX:</label><input type="checkbox" name="drx" value="drx"/>
+                        <label for="meb" class="">MEB:</label><input type="checkbox" name="meb" value="meb"/>
+                        <label for="frx" class="">FRX:</label><input type="checkbox" name="frx" value="frx"/>
+                        <label for="icp" class="">ICP:</label><input type="checkbox" name="icp" value="icp"/>
+                        <label for="quimico" class="">Químico:</label><input type="checkbox" name="quimico" value="quimico"/>
+                        <label for="otro" class="">Otro:</label><input type="text" name="otro_analisis" id="otro_analisis" value="" size="15"/>
+                        <br>
+                        <hr>
+                        <label for="observaciones" class="observaciones">Observaciones: </label><textarea  name="observaciones" id="observaciones" cols="40" rows="3" placeholder="Observaciones"></textarea><br>
+
+                    
+                </div>
+                <div id="botones">
+                    <hr>                
+                    <input type="submit" value="Guardar" class="boton">
+                    <input type="reset" class="boton">
+                </div>
+            </form>
+        </div><br>
+        
+        <footer id="pie_pagina">
+            <div id="pie">
+                <hr>
+                <img src="imagenes/diablo.png" name="diablo" id="diablo"/>
+                <span>imosquerad@yahoo.com.mx</span>
+                <img src="imagenes/instagram.png" name="instagram" id="instagram"/>
+                <span>@imosquerad_mineral</span>
+            </div>
+        </footer>
+
+
+
+        
+    <!--</form>-->
+</body>
+</html>
+
+

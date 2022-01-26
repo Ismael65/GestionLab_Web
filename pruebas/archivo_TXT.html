@@ -1,0 +1,93 @@
+<!DOCTYPE html5>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Archivo TXT</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <script type="text/javascript" src="guardar_textarea.js"></script>
+        
+        <script>
+                function saveTextAsFile()
+    {      
+    // grab the content of the form field and place it into a variable
+        var nomArchivo = document.getElementById("nomArchivo").value;
+        
+        var cedula = document.getElementById("cedula").value;
+        var nombre = document.getElementById("nombre").value;
+        var apellido = document.getElementById("apellido").value;
+        
+        var texto = document.getElementById("texto").value;
+        
+    //  create a new Blob (html5 magic) that conatins the data from your form feild
+        
+        var textFileAsBlob = new Blob([cedula, "\t", nombre, "\t", apellido, "\t", texto], {type:'text/plain'});
+    // Specify the name of the file to be saved
+        var fileNameToSaveAs = (nomArchivo + ".txt");
+        
+    // Optionally allow the user to choose a file name by providing 
+    // an imput field in the HTML and using the collected data here
+    // var fileNameToSaveAs = txtFileName.text;
+     
+    // create a link for our script to 'click'
+        var downloadLink = document.createElement("a");
+    //  supply the name of the file (from the var above).
+    // you could create the name here but using a var
+    // allows more flexability later.
+        downloadLink.download = fileNameToSaveAs;
+    // provide text for the link. This will be hidden so you
+    // can actually use anything you want.
+        downloadLink.innerHTML = "My Hidden Link";
+        
+    // allow our code to work in webkit & Gecko based browsers
+    // without the need for a if / else block.
+        window.URL = window.URL || window.webkitURL;
+              
+    // Create the link Object.
+        downloadLink.href = window.URL.createObjectURL(textFileAsBlob);
+    // when link is clicked call a function to remove it from
+    // the DOM in case user wants to save a second file.
+        downloadLink.onclick = destroyClickedElement;
+    // make sure the link is hidden.
+        downloadLink.style.display = "none";
+    // add the link to the DOM
+        document.body.appendChild(downloadLink);
+        
+    // click the new link
+        downloadLink.click();
+    }
+     
+    function destroyClickedElement(event)
+    {
+    // remove the link from the DOM
+        document.body.removeChild(event.target);
+    }
+     
+    // EOF
+        </script>
+        
+    </head>
+    <body>
+        <label for="nomArchivo" class="">Nombre del Archivo: </label><input type="text" name="nomArchivo" id="nomArchivo" value="" size="10" required=""/><br><br>
+        
+        <label for="cedula" class="">Cedula: </label><input type="text" name="cedula" id="cedula" value="" size="10" required=""/><br>
+        <label for="nombre" class="">Nombre: </label><input type="text" name="nombre" id="nombre" value="" size="15" required=""/><br>
+        <label for="apellido" class="">Apellido: </label><input type="text" name="apellido" id="apellido" value="" size="15" required=""/><br>
+        <label for="texArea" class="">Texto: </label><textarea id="texto" cols="50" rows="3"></textarea><br>
+        
+        <button onclick="saveTextAsFile()">Save Text to File</button>
+
+
+    </body>
+</html>
+    
+     
+    
+     
+      </body>
+    </html>

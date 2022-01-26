@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Presupuesto Prueba</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="imagenes/LogoIngeomin.ico">
+        <!--<link href="estilo_GestionLab.css" rel="stylesheet" type="text/css"/>-->
+        
+        <script type="text/javascript">
+        
+        function load_html(){
+            var xml=new XMLHttpRequest();
+            if(xml){
+                xml.open("GET", "precioanalisis2.txt", false);
+                xml.send(null);
+                
+                document.getElementById('test2').innerHTML=xml.responseText;
+                
+                document.getElementById("eltexto").value="";
+                document.getElementById("lista").value="";
+                let titulo=["CODIGO ", " DESCRIPCIÓN ", " PRECIO_MUESTRA"];
+                document.getElementById("eltexto").value += titulo + "\n";
+                }
+            }
+            window.onload = load_html;
+
+            function actualizar(select) {
+                var val = select.value;                
+                var listaPrecio=val.split("\tab");
+                 
+                
+                for(var i=0; i<listaPrecio.length; i++){
+                    
+                   /* var itemDolar=listaPrecio[i];*/
+                    var codigo=listaPrecio[0];
+                    var descripcion=listaPrecio[1];
+                    var precio=Number(listaPrecio[2]);
+                                      
+                    var ultimo=val.slice(-6);                    
+                    var total=total + ultimo;
+                }
+                
+
+                document.getElementById('lista').value += listaPrecio + "\n";
+                document.getElementById('eltexto').value += val + "\n";
+                /*document.getElementById('eltexto2').value += val;*/                
+                
+                document.getElementById('lista').value +="Ultimo " + ultimo + " " + " Total " + total + "\n";
+                
+                document.getElementById('precio').innerHTML +=ultimo + "  ";
+                
+            }
+            
+        </script>
+        
+        
+        
+    </head>
+    <body id="cuerpo">
+        <div id="titulo_principal" class="titulo_principal">
+        <!--<img src="imagenes/logoingeomin.png"/>-->
+        <h2>Presupuesto</h2>    
+        </div>
+        <header>
+            <nav id="barra_navegacion">
+                <!--<a href="menu_principal.html"><img src="imagenes/inicio1.png"/><br></a>-->
+            </nav>
+        </header>
+        <div id="lista_precio">
+            <hr>
+            <h4>Precios Análisis de Lab. Ingeomin</h4>            
+           
+            <select id="test2" class="sel_pre"  onChange="actualizar(this)" size="10">
+    
+            </select>
+            <br>
+        </div>
+        <div>
+            <br>
+            <!--<h4>Seleccione un Item para generar Presupuesto y PDF</h4>
+            <h4>Presupuesto a Nombre de: </h4>
+            <label for="name">Nombre</label><input type="text" id="name" value=""/>
+            <label for="apellido">Apellido: </label><input type="text" id="apellido" value=""/><br>
+            <label for="cedula">Cedula: </label><input type="text" id="cedula" value=""/>
+            <label for="telefono">Telefono:</label><input type="text" id="telefono" value=""/>
+            <label for="correo">Correo:</label><input type="email" id="correo" value=""/>-->
+            
+            <textarea id="lista" class="sel_pre" rows="10" cols="120"></textarea>
+            <p id="precio"></p>
+            <textarea id="eltexto" class="sel_pre" rows="10" cols="120"></textarea>
+            
+            <br>
+        </div>
+        <div id="botones">
+            <hr>                
+            <input type="submit" value="Guardar" class="boton">
+            <input type="reset" class="boton">
+        </div>
+        <br>
+        <footer id="pie_pagina">
+            <div id="pie">
+                <hr>
+                <!--<img src="imagenes/diablo.png" name="diablo" id="diablo"/>
+                <span>imosquerad@yahoo.com.mx</span>
+                <img src="imagenes/instagram.png" name="instagram" id="instagram"/>
+                <span>@imosquerad_mineral</span>-->
+            </div>
+        </footer>
+    </body>
+</html>

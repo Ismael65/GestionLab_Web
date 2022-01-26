@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html lang="es">
+
+    <script type="text/javascript" language="javascript">
+    /*var direccionesRoc=new Array();
+    var direccionesAca=new Array();
+    direccionesRoc[0]="rock1.htm";
+    direccionesRoc[1]="rock2.htm";
+    direccionesAca[0]="barroco.htm";
+    direccionesAca[1]="sigloxx.htm";
+    direccionesAca[2] = "romantico.htm";*/
+    var estado, municipio, parroquia;
+
+        function direccion(form){
+            var selec= form.estado.options;
+            var combo = form.municipio.options;
+            var combo1 = form.parroquia.options;
+            
+            if(selec[1].selected == true){
+                document.form.action = estado[combo.selectedIndex];
+            } if(selec[2].selected == true){
+                form.action = municipio[combo.selectedIndex];
+            } if(selec[3].selected == true){
+                form.action = parroquia[combo1.selectedIndex];
+            }            
+        }
+
+
+
+        function agregarOpciones(form)
+        {
+            var selec = form.estado.options;
+            var combo = form.municipio.options;
+            var combo1 = form.parroquia.options;            
+            combo.length = null;
+            combo1.length = null;            
+
+            if (selec[0].selected == true)
+            {
+                var seleccionar = new Option("Esperando selección");
+                combo[0] = seleccionar;
+            }
+
+            if (selec[1].selected == true)
+            { /* AMAZONAS */
+                var municipio10_1 = new Option("Alto Orinoco");
+                var municipio10_2 = new Option("Atabapo");
+                var municipio10_3 = new Option("Atures");                
+                combo[0] = municipio10_1;
+                combo[1] = municipio10_2;
+                combo[2] = municipio10_3;                
+            }
+            if (selec[2].selected == true)
+            { /* ANZOÁTEGUI */
+                var municipio20_1 = new Option("Anaco");
+                var municipio20_2 = new Option("Aragua");
+                var municipio20_3 = new Option("Fernando Peñalver");                
+                combo[0] = municipio20_1;
+                combo[1] = municipio20_2;
+                combo[2] = municipio20_3;                
+            }
+            if (selec[3].selected == true)
+            { /* APURE */
+                var municipio30_1 = new Option("Achagua");
+                var municipio30_2 = new Option("Biruaca");
+                var municipio30_3 = new Option("Muñoz");                
+                combo[0] = municipio30_1;
+                combo[1] = municipio30_2;
+                combo[2] = municipio30_3;                
+            }
+            
+            if (selec[4].selected == true)
+            { /* AMAZONAS Alto Orinoco */
+                var parroquia10_1 = new Option("Huachamacare");
+                var parroquia10_2 = new Option("Marawaka");
+                var parroquia10_3 = new Option("Mavaca");                
+                combo1[0] = parroquia10_1;
+                combo1[1] = parroquia10_2;
+                combo1[2] = parroquia10_3;                
+            }
+            if (selec[5].selected == true)
+            { /* AMAZONAS Atabapo */
+                var parroquia20_1 = new Option("Ucata");
+                var parroquia20_2 = new Option("Yupacana");
+                var parroquia20_3 = new Option("Caname");                
+                combo1[0] = parroquia20_1;
+                combo1[1] = parroquia20_2;
+                combo1[2] = parroquia20_3;                
+            }
+            
+        }
+    </script>
+
+<body>
+    <form name="ejemplo2" method="POST" target="_blank" action="">
+            <!--  ESTADO  -->
+        <select name="estado" onChange="agregarOpciones(this.form)">
+
+            <option value="">[seleccione un ESTADO]</option>
+
+            <option value="estado10">Amazonas</option>
+
+            <option value="estado20">Anzoategui</option>
+            
+            <option value="estado30">Apure</option>
+
+        </select>
+            <!--  MUNICIPIO  -->
+        <select name="municipio" onChange="direccion(this.form)">
+
+            <option value="">Esperando MUNICIPIO</option>
+
+        </select>
+            <!--  PARROQUIA  -->
+        <select name="parroquia" onChange="direccion(this.form)">
+
+            <option value="">Esperando PARROQUIA</option>
+
+        </select>
+
+
+
+        <!--<input type="submit" value="Enviar"></form>-->
+</body>
+</html>

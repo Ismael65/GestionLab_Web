@@ -1,0 +1,1549 @@
+									
+			<optgroup label=”LABORATORIO_15_(Espectroscopía)”>						
+			LABORATORIO 15 (Espectroscopía) Cubículo del ICP-MS						
+									
+<optgroup label=”Cubículo_del_ICP_-_MS”>						
+"""<option id="""	opcion2	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion3	""">"	Espectrómetro de Masa con Plasma Inductivamente Acoplado (ICP-MS)	PerkimElmer-SCIEX/ELAN DRC-e	AH-11910702	6493	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion4	""">"	Computador tipo PC del ICP-MS	-CPU: DELL / OPTIPLEX GX620	-8P7BCC1	6493	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion5	""">"	Computador tipo PC del ICP-MS	-Monitor LCD: DELL	-CN-ODC323-71618-6C5-GBD7	6493	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion6	""">"	Computador tipo PC del ICP-MS	-Teclado: DELL / RT7D50	- CN-0MW437-37172-68N-02V9	6493	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion7	""">"	Computador tipo PC del ICP-MS	-Mouse: DELL	HCA51530003	No indica	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion8	""">"	Impresora Laser del ICP-MS	HP / LaserJet 4250	CNRXH54163	6493	Sala del Piso 2, Sur 1, entrada del pasillo de servicio, frente a la conserjería	Sin instalar	</option>
+"""<option id="""	opcion9	""">"	Autosampler del ICP-MS	PerkimElmer / AS-93+	932S6092301	6493	"Laboratorio 15
+"	Sin Instalar	</option>
+"""<option id="""	opcion10	""">"	Intercambiador de calor del ICP-MS	PolyScience / 3370	CD7100479	6493	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion11	""">"	UPS del ICP-MS	FRANEK	L081U18 / 0643A005	6493	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion12	""">"	Extensión de dos gavetas del ICP-MS	VASCONIA	No indica	3441	Laboratorio 15	Instalado	</option>
+"""<option id="""	opcion13	""">"	Soporte de Mesón del ICP-MS	VASCONIA	No indica	3440	Laboratorio 15	Instalado	</option>
+"""<option id="""	opcion14	""">"	Mesón de dos gavetas y dos puertas del ICP-MS	VASCONIA	No indica	3437	Laboratorio 15	Instalado	</option>
+"""<option id="""	opcion15	""">"	Mesón de una puertas del ICP-MS	VASCONIA	No indica	3438	Laboratorio 15	Instalado	</option>
+"""<option id="""	opcion16	""">"	Deshumificador del ICP-MS	Soleusair / CFM-25E	8490160002608	3406	Sala de Balanza	En Uso	</option>
+"""<option id="""	opcion17	""">"	Silla de laboratorio del ICP-MS de asiento y espaldar de plástico de color azul, giratoria	No indica	No indica	3407	Laboratorio 15	En Uso	</option>
+			</optgroup >
+</optgroup >						
+									
+			<optgroup label=”Cubículo_del_ICP_MS”>						
+Cubículo del ICP OES						</option>
+"""<option id="""	opcion22	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion23	""">"	"Espectrofotómetro de Emisión Optica con Plasma Inductivamente Acoplado
+(ICP OES)
+
+"	PerkimElmer / Optima 5300 DV	077C6092202	6491	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion24	""">"	Autosampler del ICP OES	PerkimElmer / AS-93+	933S7010701	6491	"Laboratorio 15
+"	Sin Instalar	</option>
+"""<option id="""	opcion25	""">"	Intercambiador de calor del ICP OES	PolyScience / N0772026	106700494	6491	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion26	""">"	UPS del ICP OES	FRANEK	L051U18 / 0615A004	6491	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion27	""">"	"Computador tipo PC del ICP OES
+
+"	CPU: DELL/OPTIPLEX GX620	DJL 4T91	6491	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion28	""">"	Computador tipo PC del ICP OES	Monitor LCD: DELL	CN-OCC280-71618-673-ACGE	6491	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion29	""">"	Computador tipo PC del ICP OES	Teclado: DELL / RT7D50	CN-0W7658-37172-64C-05BG	6491	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion30	""">"	Computador tipo PC del ICP OES	Mouse: DELL	HCA60339708	6491	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion31	""">"	Computador tipo PC del ICP OES	Impresora: HP / Deskjet 5650	MY5AQ5P15R	6491	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion32	""">"	Mesón con Entrepaño del ICP OES	VASCONIA	No indica	3416	Laboratorio 15	Instalado	</option>
+"""<option id="""	opcion33	""">"	Mesón del ICP OES	VASCONIA	No indica	3416	Laboratorio 15	Instalado	</option>
+"""<option id="""	opcion34	""">"	"Vitrina de pared del ICP OES
+con puertas de vidrio corredizas"	VASCONIA	No indica	3408	Laboratorio 15	Instalado	</option>
+"""<option id="""	opcion35	""">"	Mesón de dos (2) gavetas y dos (2) puertas	Vasconia	No indica	3439	Laboratorio 15	Instalado	</option>
+"""<option id="""	opcion36	""">"	Deshumificador del ICP OES	SOLEUSAIR / CFM-25E	8490160002665	3404	Laboratorio 15	Sin Instalar	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”Espectrofotómetro_de_Absorción_Atómica_(AAS)”>						
+Espectrofotómetro de Absorción Atómica (AAS)						</option>
+"""<option id="""	opcion42	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion43	""">"	"Espectrofotómetro de Absorción Atómica (AAS)
+
+"	"Thermo / Serie M
+
+"	"GE650466
+"	2045	"Laboratorio 15
+"	Sin Instalar	</option>
+"""<option id="""	opcion44	""">"	Espectrofotómetro de Absorción Atómica (AAS)	Thermo / Horno de Grafito GF95	"GE603576
+Fuente de Poder 147183"	2045	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion45	""">"	Espectrofotómetro de Absorción Atómica (AAS)	Thermo / Automuestreador del horno de grafito FS95		2045	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion46	""">"	Espectrofotómetro de Absorción Atómica (AAS)	Thermo / Generador de hidruro VP90	GE603228	2045	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion47	""">"	Espectrofotómetro de Absorción Atómica (AAS)	Thermo / Vapor Frío	423690	2045	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion48	""">"	Espectrofotómetro de Absorción Atómica (AAS)	Compresor: KnF / Tipo PME0438-035	1676598	2046	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion49	""">"	Espectrofotómetro de Absorción Atómica (AAS)	Chiller: Neslab / Merlin M33	105073011	2405	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion50	""">"	"Computador tipo PC del Espectrofotómetro de Absorción Atómica (AAS)
+Monitor del AAS
+Teclado del AAS"	DELL	B7L1P71	2388	"Laboratorio 15
+"	Perdida durante la mudanza del 2012 y aun no tiene	</option>
+"""<option id="""	opcion51	""">"	"Computador tipo PC del Espectrofotómetro de Absorción Atómica (AAS)
+Monitor del AAS
+Teclado del AAS"	Monitor: DELL / E7735	MX-OY1352-47605-5SP-F5SR	2388	Laboratorio 15	Sin instalar	</option>
+"""<option id="""	opcion52	""">"	"Computador tipo PC del Espectrofotómetro de Absorción Atómica (AAS)
+Monitor del AAS
+Teclado del AAS"	Teclado: DELL	CN-07N242-71616-53S-07SS	2388	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion53	""">"	"Computador tipo PC del Espectrofotómetro de Absorción Atómica (AAS)
+Monitor del AAS
+Teclado del AAS"	Mouse:	No Tiene	No indica	Laboratorio 15	No tiene	</option>
+"""<option id="""	opcion54	""">"	Mesón con entrepaño de dos gavetas del AAS	Vasconia	No  indica	3422	Laboratorio 15	Instalado	</option>
+"""<option id="""	opcion55	""">"	Extensión de mesón de dos gavetas del AAS	Vasconia	No  indica	3441	Laboratorio 15	Instalado	</option>
+"""<option id="""	opcion56	""">"	UPS	AVTEK/10KS	No  indica	935	Laboratorio 15	"Sin Instalar.
+En la Florida estaba sin instalar en el laboratorio de AAS con el PerkimElmer
+"	</option>
+"""<option id="""	opcion57	""">"	"Tres (3) Aire Acondicionado. FAN Coil para agua helada en 208/1/60
+2Tr"	FRIOVEN / THF24AH  	"No se le puede distinguir.
+Pero en un documento dicen que son: 
+-290420137522
+
+
+
+
+"	No Tiene	Laboratorio 15	Instalado parcialmente. Falta la ductería. Estos aire lo puso la compañía DEQUIMEN por la pérdida de los aire acondicionado durante el proceso de mudanza	</option>
+"""<option id="""	opcion58	""">"	"Tres (3) Aire Acondicionado. FAN Coil para agua helada en 208/1/60
+2Tr"	FRIOVEN / THF24AH  	-290420137523	No Tiene	Laboratorio 15	Instalado parcialmente. Falta la ductería. Estos aire lo puso la compañía DEQUIMEN por la pérdida de los aire acondicionado durante el proceso de mudanza	</option>
+"""<option id="""	opcion59	""">"	"Tres (3) Aire Acondicionado. FAN Coil para agua helada en 208/1/60
+2Tr"	FRIOVEN / THF24AH  	-290420137524	No Tiene	Laboratorio 15	Instalado parcialmente. Falta la ductería. Estos aire lo puso la compañía DEQUIMEN por la pérdida de los aire acondicionado durante el proceso de mudanza	</option>
+			</optgroup >						
+									
+			<optgroup label=”Cubículo_del_WDFRX_en_el_laboratorio_15”>						
+Cubículo del WDFRX en el laboratorio 15						</option>
+"""<option id="""	opcion64	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion65	""">"	Espectrómetro de Fluorescencia de Rayos X de longitud de onda dispersiva (WDFRX)	PHILLIPS / Magix Pro con automuestreador PW2540 vrc	943002440001	2397	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion66	""">"	Computadora del WDFRX	Hp / Compaq	MXD52102VF	2051	Sala del Piso 2, Sur 1, entrada del pasillo de servicio, frente a la conserjería	Sin Instalar	</option>
+"""<option id="""	opcion67	""">"	Monitor del WDFRX	PHILLIPS / 107B20	HD000114000982	1890	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion68	""">"	UPS del WDFRX	AVTEK/12KVA	"Borrado
+..0073105…"	2308	Laboratorio 15	Sin Instalar	</option>
+"""<option id="""	opcion69	""">"	Vitrina de Pared del WDFRX	Vasconia	No indica	3436	Laboratorio 15	Instalado	</option>
+"""<option id="""	opcion70	""">"	CHILLER del WDFRX	NESLAB / HX 300	1010090712401	2401	Laboratorio 15, Pasillo de Servicio	Sin Instalar	</option>
+"""<option id="""	opcion71	""">"	Compresor del WDFRX	JUN-AIR / Mod 6-25	484965	No indica	Laboratorio de electrónica de INTEVEP	Sin Instalar. Actualmente en el laboratorio de electrónica de INTEVEP	</option>
+"""<option id="""	opcion72	""">"	Lava Ojos	Vasconia	No tiene	No tiene	Laboratorio 15	Instalado	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”Pasillo_del_laboratorio_15”>						
+Pasillo  del laboratorio 15						</option>
+"""<option id="""	opcion78	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion79	""">"	Campana de extracción de gases con gabinetes de cuatro puertas (1,83 m)	Labconco /1000	"1.- Campana 060961257I
+
+
+"	2726	Laboratorio 15	Sin instalar	</option>
+"""<option id="""	opcion80	""">"	Campana de extracción de gases con gabinetes de cuatro puertas (1,83 m)	Labconco /1000	2.- Gabinete de dos puertas 060961151A	2726	Laboratorio 15	Sin instalar	</option>
+"""<option id="""	opcion81	""">"	Campana de extracción de gases con gabinetes de cuatro puertas (1,83 m)	Labconco /1000	3.- Gabinete de dos puertas 060961152A	2726	Laboratorio 15	Sin instalar	</option>
+"""<option id="""	opcion82	""">"	"Vitrina de pared
+con puertas de vidrio corredizas"	Vasconia	No indica	3402	Lado izquierdo de la entrada del laboratorio 15	Instalado	</option>
+"""<option id="""	opcion83	""">"	"Vitrina de pared
+con puertas de vidrio corredizas"	Vasconia	No indica	3420	A la entrada del laboratorio 15	Instalado	</option>
+"""<option id="""	opcion84	""">"	Vitrina de pared con puertas de vidrio corredizas	Vasconia	No indica	3429	En la pared del fondo del laboratorio 15	Instalado	</option>
+"""<option id="""	opcion85	""">"	Mesón sin entrepaño	Vasconia	No indica	3422. Este BN coincide con el mesón del AAS con entrepaño.	Entrada a la izquierda del laboratorio 15	Instalado.	</option>
+"""<option id="""	opcion86	""">"	Taburete con cojín negro de semi cuero	No indica	No indica	902	Laboratorio 15	En Uso	</option>
+"""<option id="""	opcion87	""">"	Mesón sin entrepaño	Vasconia	No indica	3409	Entrada a la izquierda del laboratorio 15	Instalado	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”Inventario_de_INTEVEP_en_el_laboratorio_15”>						
+Inventario de INTEVEP en el laboratorio 15						</option>
+"""<option id="""	opcion93	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion94	""">"	Mesón de seis gavetas	No indica	No indica	Sin serial PDVSA	Laboratorio 15	Instalado	</option>
+"""<option id="""	opcion95	""">"	Mesón de ocho gavetas	No indica	Sin Serial-PDVSA	Sin bien-PDVSA	Laboratorio 15. Pertenece a PDVSA-INTEVEP	Instalado	</option>
+"""<option id="""	opcion96	""">"	Pizarra Acrílica	No indica	No indica	No indica	"Laboratorio 15
+Pertenece a PDVSA-INTEVEP"	Sin Instalar	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”LABORATORIO_16_(Vía_humedad_I)”>
+<optgroup label=”Sala_de_Balanza_del_laboratorio_16”>						
+LABORATORIO 16 (Vía humedad I)						</option>
+Sala de Balanza del laboratorio 16						</option>
+"""<option id="""	opcion104	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion105	""">"	Balanza Analítica	Mettler/AE240	SNRG57977	55635	"Sala de Balanza
+"	En Uso	</option>
+"""<option id="""	opcion106	""">"	Balanza Analítica	Mettler Toledo / AB204-S FACT	SNR 1127403571	3550	"Sala de Balanza
+Laboratorio 16"	En Uso	</option>
+"""<option id="""	opcion107	""">"	Balanza Analítica	Mettler Toledo / AB204-S	SNR 1128222721	2971	"Sala de Balanza
+Laboratorio 16"	En Uso	</option>
+"""<option id="""	opcion108	""">"	Balanza Analítica	Mettler Toledo / AB204-S	SNR 1128222724	2974	"Sala de Balanza
+Laboratorio 16"	En Uso	</option>
+"""<option id="""	opcion109	""">"	Balanza Analítica	Mettler / H20	3367794	13145	Laboratorio 16	No en Uso	</option>
+"""<option id="""	opcion110	""">"	Balanza Analítica	Mettler / H35	614702	30506	"Laboratorio 16
+"	No en Uso	</option>
+"""<option id="""	opcion111	""">"	Balanza Semi Analítica	Precisa / XB10200G	79737	3548	"Sala de Balanza
+Laboratorio 16"	En Uso	</option>
+"""<option id="""	opcion112	""">"	Balanza Semi Analítica	Precisa / XB10200G	79736	3549	"Sala de Balanza
+Laboratorio 16"	En caja (Esta nueva)	</option>
+"""<option id="""	opcion113	""">"	Microbalanza	Thermo / Orion Cahn C-34 / XB10200G	SN C1352	2035	"Sala de Balanza
+Laboratorio 16"	En Uso	</option>
+"""<option id="""	opcion114	""">"	Deshumificador	Soleusair / CFM-25E	8490160002595	3414	"Sala de Balanza
+Laboratorio 16"	En Uso	</option>
+"""<option id="""	opcion115	""">"	Mesón de Balanza	La Vasconia	"
+No indica"	3421	Sala de balanza Laboratorio 16	En Uso	</option>
+"""<option id="""	opcion116	""">"	Mesón de balanza	La Vasconia	No indica	3434	Sala de balanza Laboratorio 16	En Uso	</option>
+"""<option id="""	opcion117	""">"	Mesón de la Microbalanza	La Vasconia	No indica	3435	"Sala de balanza Laboratorio 16
+"	En Uso	</option>
+"""<option id="""	opcion118	""">"	Taburete con cojín negro de semi cuero	No indica	No indica	903	Sala de balanza Laboratorio 16	En Uso	</option>
+"""<option id="""	opcion119	""">"	Silla Giratoria de tela azul oscuro	No indica	No indica	09….	Sala de balanza Laboratorio 16	En Uso	</option>
+"""<option id="""	opcion120	""">"	Silla de asiento plástico azul cielo	No indica	No indica	3433 o 3493	Sala de balanza Laboratorio 16	En Uso	</option>
+"""<option id="""	opcion121	""">"	Silla de asiento plástico azul cielo	No indica	No indica	3418	Sala de balanza Laboratorio 16	En Uso	</option>
+
+			</optgroup >						
+</optgroup >									
+			<optgroup label=”Laboratorio_16”>						
+Laboratorio 16						</option>
+"""<option id="""	opcion127	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion128	""">"	Estufa	Barnstead International / LAB-LINE, 3513	1482050565686	2050	Laboratorio 16	Defectuosa. No controla la Temperatura	</option>
+"""<option id="""	opcion129	""">"	Espectrofotómetro de UV-Visible	Milton Roy Company / Spectronic 20D	3320145019	171	Laboratorio 16	En uso	</option>
+"""<option id="""	opcion130	""">"	Espectrofotómetro de UV-Visible	"1.-THERMO SCIENTIFIC / Genesys 10UV
+
+"	"1.-2G8K253002
+
+
+
+"	"1.-1539
+
+
+
+"	Laboratorio 16	Sin instalar. Falta la bomba peristáltica y la computadora	</option>
+"""<option id="""	opcion131	""">"	Espectrofotómetro de UV-Visible	2.-Bomba peristáltica: Mod 335982	2.-G07003736	2.-1539	Laboratorio 16	Sin instalar. Falta la bomba peristáltica y la computadora	</option>
+"""<option id="""	opcion132	""">"	Computadora del Espectrofotómetro de UV-Visible	1.- CPU: HP	1.- MXJ713001T	1.-1539	1.-Perdido durante la mudanza del 2012	Sin CPU ni Monitor	</option>
+"""<option id="""	opcion133	""">"	Computadora del Espectrofotómetro de UV-Visible	2.- Monitor: HP pantalla plana	2.- CNN7160PC6	2.-1539	2.-Perdido durante la mudanza del 2012	Sin CPU ni Monitor	</option>
+"""<option id="""	opcion134	""">"	Computadora del Espectrofotómetro de UV-Visible	3.Teclado: HP/SK-2880	3.-BC3370ACPU26Y1	3.-1539	3 y 4.- Teclado y Mouse en el laboratorio 16	Sin CPU ni Monitor	</option>
+"""<option id="""	opcion135	""">"	Computadora del Espectrofotómetro de UV-Visible	4.-Mouse: HP	4.-C/T:FB7330AN3TT2AFT	4.-1539	3 y 4.- Teclado y Mouse en el laboratorio 16	Sin CPU ni Monitor	</option>
+"""<option id="""	opcion136	""">"	Impresora de tinta del GENESYS	HP / Deskjet D4160	TH68284433	1539	Laboratorio 16	Sin instalar	</option>
+"""<option id="""	opcion137	""">"	Lava ojosy ducha  de seguridad	Vasconia	No indica	3585	Laboratorio 16	Sin instalar	</option>
+"""<option id="""	opcion138	""">"	Silla de laboratorio de asiento y espaldar de plástico de color azul, giratoria	No indica	No indica	3426	Laboratorio 16	En Uso	</option>
+"""<option id="""	opcion139	""">"	Silla de laboratorio de asiento y espaldar de plástico de color azul, giratoria	No indica	No indica	3424	Laboratorio 16	En Uso	</option>
+"""<option id="""	opcion140	""">"	Silla con asiento y espaldar de plástico de color azul	No indica	No indica	3510	Laboratorio 16	En Uso	</option>
+"""<option id="""	opcion141	""">"	Horno de Microonda	ETHOS MILESTONE	124870	555	Laboratorio 16	Sin instalar	</option>
+"""<option id="""	opcion142	""">"	Mesón - Fregadero de dos gavetas (Falsas)  y dos puertas	La Vasconia	No indica	3410	Laboratorio 16 mesón del medio, lado izquierdo al fondo	Instalado	</option>
+"""<option id="""	opcion143	""">"	Mesón de cinco gavetas y una puertas	La Vasconia	No indica	3441	Laboratorio 16 mesón del medio, lado izquierdo	Instalado	</option>
+"""<option id="""	opcion144	""">"	Extensión de mesón de dos gavetas	La Vasconia	No indica	3441	Laboratorio 16 mesón del medio, lado izquierdo	Instalado	</option>
+"""<option id="""	opcion145	""">"	Mesón de dos gavetas y dos puertas	La Vasconia	No indica	3403	Laboratorio 16 mesón del medio, lado izquierdo	Instalado	</option>
+"""<option id="""	opcion146	""">"	Extensión de mesón de dos gavetas	La Vasconia	No indica	3441	Laboratorio 16 mesón del medio, lado izquierdo al principio	Instalado	</option>
+"""<option id="""	opcion147	""">"	Mesón –Fregador de dos puertas	La Vasconia	No indica	3441	Laboratorio 16	Instalado	</option>
+"""<option id="""	opcion148	""">"	Extensión de mesón de dos gavetas	La Vasconia	No indica	3441	Laboratorio 16 mesón del medio, lado derecho al principio	Instalado	</option>
+"""<option id="""	opcion149	""">"	Mesón de dos gavetas y dos puertas	La Vasconia	No indica	3403	Laboratorio 16 mesón del medio, lado derecho	Instalado	</option>
+"""<option id="""	opcion150	""">"	Extensión de mesón de dos gavetas	La Vasconia	No indica	3441	Laboratorio 16 mesón del medio, lado derecho	Instalado	</option>
+"""<option id="""	opcion151	""">"	Mesón de cinco gavetas y una puertas	La Vasconia	No indica	3441	Laboratorio 16 mesón del medio, lado derecho	Instalado	</option>
+"""<option id="""	opcion152	""">"	Mesón de dos gavetas y dos puertas	La Vasconia	No indica	3410	Laboratorio 16 mesón del medio, lado derecho al fondo	Instalado	</option>
+"""<option id="""	opcion153	""">"	Campana de digestión para ácido Perclórico con extracción de gases de 1,53 m. Incluye gabinete de dos puertas	"Labconco / 1000
+
+-Campana, Catalogo 4882300"	-060961256 H	-2725	Laboratorio 16	Sin instalar	</option>
+"""<option id="""	opcion154	""">"	Campana de digestión para ácido Perclórico con extracción de gases de 1,53 m. Incluye gabinete de dos puertas	"Labconco / 1000
+
+-Gabinete, Catalogo 9901000"	-060961167 A	-2724	Laboratorio 16	Sin instalar	</option>
+"""<option id="""	opcion155	""">"	Prensa Hidráulica	AS ONE /	No indica	No tiene aún	Laboratorio 16	Aun sin Probar	</option>
+"""<option id="""	opcion156	""">"	Lava Ojo	Vasconia	No indica	Sin BN	Laboratorio 16, lado derecho	Instalado	</option>
+"""<option id="""	opcion157	""">"	Vitrina de Piso con puertas batientes de vidrio	Vasconia	No indica	3383	Laboratorio 16	Instalado	</option>
+"""<option id="""	opcion158	""">"	"Vitrina de pared
+con puertas de vidrio corredizas"	Vasconia	No indica	3419	"Laboratorio 16
+Pared derecha"	Instalado	</option>
+"""<option id="""	opcion159	""">"	Vitrina aérea de pared	Vasconia	No indica	3431	"Pared derecha
+Pared derecha"	Instalado	</option>
+"""<option id="""	opcion160	""">"	"Vitrina de pared
+con puertas de vidrio corredizas"	Vasconia	No indica	3432	"Laboratorio 16
+Pared derecha"	Instalado	</option>
+"""<option id="""	opcion161	""">"	Centrifugadora	THERMO ELECTRON CORPORATION / IEC CL30	307040707	3629	Laboratorio 16	Sin instalar, Equipo Nuevo sin entrenar	</option>
+"""<option id="""	opcion162	""">"	Centrifugadora	THERMO ELECTRON CORPORATION / IEC CL30	307040706	3628	Laboratorio 16	"Sin instalar. 
+Mudado del lab 17 al 16"	</option>
+"""<option id="""	opcion163	""">"	"UPS
+Pertenece al Cromatógrafo iónico"	AVTEK / BKPro 2200	2009100 014	No Tiene	"Laboratorio 16
+Mover al Laboratorio 9"	Sin instalar	</option>
+"""<option id="""	opcion164	""">"	Teléfono	Panasonic / KX-TS500LXW	Borrado	Borrado	Laboratorio 16	Sin Instalar	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”Inmobiliario_de_INTEVEP_en_el_laboratorio_16”>						
+Inmobiliario de INTEVEP en el laboratorio 16						</option>
+"""<option id="""	opcion170	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion171	""">"	"Dos Vitrinas de Pared
+con puertas de vidrio corredizas"	Vasconia	No indica	"9-123-0515
+Pertenece a PDVSA - INTEVEP"	"Laboratorio 16
+Pared derecha"	Instalado	</option>
+"""<option id="""	opcion172	""">"	Un mesón auxiliar de pared de dos gavetas	No indica	No indica	"9-128-0540
+Pertenece a PDVSA - INTEVEP"	Laboratorio 16, lado derecho	Instalados	</option>
+"""<option id="""	opcion173	""">"	Cuatro (4) mesones: de una gaveta, una puerta y una extensión de una gaveta	No indica	No indica	"9-128-0540
+Pertenece a PDVSA - INTEVEP"	Laboratorio 16, lado derecho	Instalados	</option>
+"""<option id="""	opcion174	""">"	Tres (3) mesones: de una gaveta, una puerta y una extensión de una gaveta	No indica	No indica	"9-128-0540
+Pertenece a PDVSA - INTEVEP"	Laboratorio 16, lado izquierdo	Instalados	</option>
+"""<option id="""	opcion175	""">"	Un mesón de una gaveta y una puerta	No indica	No indica	"9-128-0540
+Pertenece a PDVSA - INTEVEP"	Laboratorio 16, lado izquierdo	Instalados	</option>
+"""<option id="""	opcion176	""">"	Tres Vitrinas de Pared con puertas de vidrio corredizas	No indica	No indica	"9-123-0515
+Pertenecen a PDVSA - INTEVEP"	Laboratorio 16, lado izquierdo	Instalados	</option>
+"""<option id="""	opcion177	""">"	Mesón de una gaveta y una puerta	No indica	No indica	No tiene 	Laboratorio 16 al fondo a la izquierda Pertenece a PDVSA - INTEVEP	Sin Instalar	</option>
+"""<option id="""	opcion178	""">"	Aire acondicionado	No indica	No indica		"Laboratorio 16
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”LABORATORIO_17_(Vía_Humedad_II)”>
+<optgroup label=”Laboratorio_17”>						
+LABORATORIO 17 (Vía Humedad II)						</option>
+
+LABORATORIO 17						</option>
+"""<option id="""	opcion186	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion187	""">"	Sistema de filtración de aguas	Kalstein	No indica	3642	Laboratorio 17	Sin Instalar	</option>
+"""<option id="""	opcion188	""">"	Desionizador de 18 MΩ-cm	Barnstead / NANOpure Diamond Mod D11901	1367070339384	No tiene	Laboratorio 17	Sin Instalar	</option>
+"""<option id="""	opcion189	""">"	Destilador	POBEL	Serial BORRADO	572	Laboratorio 17	Sin instalar	</option>
+"""<option id="""	opcion190	""">"	Analizador de Iones con Dispensador	Thermo electron corporation / Orion EA940	"7518
+6446*"	2403	Laboratorio 17	"Sin Instalar
+
+*Serial del dispensador"	</option>
+"""<option id="""	opcion191	""">"	Baño de Agua	Precision Scientific / 180 series Water bath	697090059	2032	Laboratorio 17	Funcionando	</option>
+"""<option id="""	opcion192	""">"	Plancha Rotatoria de Agitación	CHEM –Index inc. / LAB. ROTATOR Mod: DSR 2100V	No indica	2392	Laboratorio 17	Funcionando	</option>
+"""<option id="""	opcion193	""">"	Plancha de Agitación	LAB LINE / Mod 1278	0884 0704	55627	Laboratorio 17	Funcionando	</option>
+"""<option id="""	opcion194	""">"	Plancha de Calentamiento con Agitación con cuatro posiciones independientes (Termoagitador)	Felisa / Mod FE-316	309084	1271	Laboratorio 17	Funcionando	</option>
+"""<option id="""	opcion195	""">"	Plancha de calentamiento	Barnstead Thermolyne / Tipo 2200 mod HPA2245M	1065060242050	No Tiene	Laboratorio 17	Sin probar	</option>
+"""<option id="""	opcion196	""">"	Plancha de calentamiento	Thermolyne / Tipo 2200 mod HPA2240M	1065010868490	579	Laboratorio 17	Sin probar	</option>
+"""<option id="""	opcion197	""">"	Plancha de calentamiento	Thermolyne / Tipo 2200 mod HPA2245M	1065030724841	1882	Laboratorio 17	Sin probar y sin enchufe	</option>
+"""<option id="""	opcion198	""">"	Plancha de calentamiento	Thermolyne / Cimarec 3 Mod HP47135	1073030617315	2031	Laboratorio 17	Sin probar	</option>
+"""<option id="""	opcion199	""">"	Plancha de calentamiento	Corning / Mod PO-100	No indica	55547	Laboratorio 17	Sin probar	</option>
+"""<option id="""	opcion200	""">"	Mufla	Barnstead  Thermolyne / 6000 modelo F6028C	1249070355802	3639	Laboratorio 17	Sin probar	</option>
+"""<option id="""	opcion201	""">"	Mufla	Thermolyne / mod FB1315M	1050010539805	2033	Laboratorio 17	Sin probar	</option>
+"""<option id="""	opcion202	""">"	Mufla	Barnstead Thermolyne / 48000 mod F48025	1285060459600	No indica	Laboratorio 17	Sin probar	</option>
+"""<option id="""	opcion203	""">"	Mufla	Barnstead Thermolyne / 48000 mod F48015	1058971255892	490	Laboratorio 17	Sin probar	</option>
+"""<option id="""	opcion204	""">"	Fundidora (Fluxy)	CLAISSE / m4 Fluxer, Mod M4-30	M4-081019-37	3546	Laboratorio 17	Dañado	</option>
+"""<option id="""	opcion205	""">"	Campana de extracción de gases	Sin marca	No indica	2723	Laboratorio 17	Sin instalar	</option>
+"""<option id="""	opcion206	""">"	Campana para Digestión Acida y Extracción de Gases con dos Gabinetes de dos puertas cada uno	LABCONCO / 1000 -Campana Catalogo 7282400	- 060961265 J	-2723	Laboratorio 17	Sin Instalar	</option>
+"""<option id="""	opcion207	""">"	Campana para Digestión Acida y Extracción de Gases con dos Gabinetes de dos puertas cada uno	-Gabinete, Catalogo 9901100	- 061061940 A	-2723	Laboratorio 17	Sin Instalar	</option>
+"""<option id="""	opcion208	""">"	Campana para Digestión Acida y Extracción de Gases con dos Gabinetes de dos puertas cada uno	-Gabinete, Catalogo 9901100	- 061061944 A	-2723	Laboratorio 17	Sin Instalar	</option>
+"""<option id="""	opcion209	""">"	Campana para Digestión Acida y Extracción de Gases con dos Gabinetes de dos puertas cada uno	LABCONCO / 1000 -Campana Catalogo 6080400	- 060961258 I	-2722	Laboratorio 17	Sin Instalar	</option>
+"""<option id="""	opcion210	""">"	Campana para Digestión Acida y Extracción de Gases con dos Gabinetes de dos puertas cada uno	-Gabinete, Catalogo 9901200	- 060961150 A	-2722	Laboratorio 17	Sin Instalar	</option>
+"""<option id="""	opcion211	""">"	Campana para Digestión Acida y Extracción de Gases con dos Gabinetes de dos puertas cada uno	-Gabinete, Catalogo 9901200	- 060961153 A	-2722	Laboratorio 17	Sin Instalar	</option>
+"""<option id="""	opcion212	""">"	Campana para Digestión Acida y Extracción de Gases con dos Gabinetes de dos puertas cada uno	LABCONCO / 1000 -Campana Catalogo 7282400	- 060961263 J	-2724	Laboratorio 17	Sin Instalar	</option>
+"""<option id="""	opcion213	""">"	Campana para Digestión Acida y Extracción de Gases con dos Gabinetes de dos puertas cada uno	-Gabinete, Catalogo 9901100	- 061061942 A	-2725	Laboratorio 17	Sin Instalar	</option>
+"""<option id="""	opcion214	""">"	Campana para Digestión Acida y Extracción de Gases con dos Gabinetes de dos puertas cada uno	-Gabinete, Catalogo 9901100	- 061061943 A	-2725	Laboratorio 17	Sin Instalar	</option>
+"""<option id="""	opcion215	""">"	"Vitrina de Pared
+con puertas de vidrio corredizas"	Vasconia	No indica	2428	"Laboratorio 17
+Pared Izquierda"	Instalado	</option>
+"""<option id="""	opcion216	""">"	"Vitrina de Pared
+con puertas de vidrio corredizas"	Vasconia	No indica	3430	"Laboratorio 17
+Pared Izquierda"	Instalado	</option>
+"""<option id="""	opcion217	""">"	Un Gabinete de dos puertas	No indica	No indica	3441	Laboratorio 17	Instalado	</option>
+"""<option id="""	opcion218	""">"	Vitrina de Piso con puertas batientes de vidrio	Vasconia	No indica	3384	Laboratorio 17	Instalado	</option>
+"""<option id="""	opcion219	""">"	Silla de laboratorio de asiento y espaldar de plástico de color azul, giratoria	No indica	No indica	3385	Laboratorio 17	Funcionando	</option>
+"""<option id="""	opcion220	""">"	Silla de laboratorio de asiento y espaldar de plástico de color azul, giratoria	No indica	No indica	3423	Laboratorio 17	Funcionando	</option>
+"""<option id="""	opcion221	""">"	Taburete con cojín negro de semi cuero	No indica	No indica	901	Laboratorio 17	Funcionando	</option>
+"""<option id="""	opcion222	""">"	Carrito para transportar muestras	No indica	No indica	13338	Laboratorio 17	"Funcionando.
+Tope de madera marrón y estructura de hierro gris"	</option>
+"""<option id="""	opcion223	""">"	Carrito para transportar muestras	No indica	No indica	No indica	Laboratorio 17	"Funcionando.
+Tope de madera gris y estructura de hierro beig"	</option>
+"""<option id="""	opcion224	""">"	Motor de extracción de gases del AAS	Brook Crompton / Tipo PDA63 SG-H	N° AG225498	No indica	"Laboratorio 17.
+"	Sin Instalar	</option>
+
+			</optgroup >						
+</optgroup >
+									
+			<optgroup label=”Equipos_y_mobiliario_perteneciente_a_PDVSA_INTEVEP”>						
+Equipos  y mobiliario perteneciente a PDVSA - INTEVEP						</option>
+"""<option id="""	opcion230	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion231	""">"	Cuatro gabinetes de una gaveta y una puerta	No indica	No indica	No indica	"Laboratorio 17
+Pared Izquierda
+Pertenece a INTEVEP"	Instalado	</option>
+"""<option id="""	opcion232	""">"	Tres Extensiones de gabinete de una gaveta pequeña	No indica	No indica	No indica	"Laboratorio 17
+Pared Izquierda
+Pertenece a INTEVEP"	Instalado	</option>
+"""<option id="""	opcion233	""">"	Un gabinete de dos puertas	No indica	No indica	9-128-0539	"Laboratorio 17
+Mesón Central, lado Izquierdo al fondo
+Pertenece a INTEVEP"	Instalado	</option>
+"""<option id="""	opcion234	""">"	Un gabinete de dos puertas con fregador	No indica	No indica	9-128-0539	"Laboratorio 17
+Mesón Central, lado Izquierdo al comienzo
+Pertenece a INTEVEP"	Instalado	</option>
+"""<option id="""	opcion235	""">"	Tres gabinetes de una gaveta y una puerta	No indica	No indica	9-128-0539	"Laboratorio 17
+Mesón Central, lado Izquierdo Pertenece a INTEVEP"	Instalado	</option>
+"""<option id="""	opcion236	""">"	Tres Extensiones de gabinete de una gaveta pequeña	No indica	No indica	9-128-0539	"Laboratorio 17
+Mesón central, lado izquierdo
+Pertenece a INTEVEP"	Instalado	</option>
+"""<option id="""	opcion237	""">"	Gabinete de Cuatro Gavetas	No indica	No indica	9-128-0539	"Laboratorio 17
+Mesón central, lado izquierdo
+Pertenece a INTEVEP"	Instalado	</option>
+"""<option id="""	opcion238	""">"	Un gabinete de dos puertas con fregador	No indica	No indica	9-128-0544	"Laboratorio 17
+Mesón Central, lado derecho al comienzo
+Pertenece a INTEVEP"	Instalado	</option>
+"""<option id="""	opcion239	""">"	Un gabinete de cuatro gavetas	No indica	No indica	9-128-0539	"Laboratorio 17
+Mesón Central, lado derecho Pertenece a INTEVEP"	Instalado	</option>
+"""<option id="""	opcion240	""">"	Cuatro gabinetes de una gaveta y una puerta	No indica	No indica	9-128-0539	"Laboratorio 17
+Mesón Central, lado derecho Pertenece a INTEVEP"	Instalado	</option>
+"""<option id="""	opcion241	""">"	Tres extensiones de gabinetes	No indica	No indica	9-128-0539	"Laboratorio 17
+Mesón Central, lado derecho Pertenece a INTEVEP"	Instalado	</option>
+"""<option id="""	opcion242	""">"	Tres Gabinetes de una gaveta y una puerta	No indica	No indica		"Laboratorio 17.
+Pared derecha
+Pertenece a INTEVEP"	Instalado	</option>
+"""<option id="""	opcion243	""">"	Dos extensiones de una gaveta pequeña	No indica	No indica		"Laboratorio 17.
+Pared derecha
+Pertenece a INTEVEP"	Instalado	</option>
+"""<option id="""	opcion244	""">"	Teléfono	Panasonic / KX-T2310	No indica	PDVSA 7003061	"Laboratorio 17
+Pertenece a PDVSA"	Sin Instalar	</option>
+"""<option id="""	opcion245	""">"	Cartelera acrilica	No indica	No indica	No indica	"Laboratorio 17
+Pertenece a PDVSA"	Instalado	</option>
+"""<option id="""	opcion246	""">"	Botiquín de primeros auxilio	No indica	No indica	No indica	"Laboratorio 17
+Pertenece a PDVSA"	Instalado. Esta vacío	</option>
+"""<option id="""	opcion247	""">"	Aire Acondicionado	No indica	No indica	No indica	"Laboratorio 17
+Pertenece a PDVSA"	Instalado	</option>
+"""<option id="""	opcion248	""">"	Extintor de CO2	KIDDE / S-40699	Tecno fuego 270316	No indica	"Laboratorio 17
+Pertenece a PDVSA"	Instalado	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”SALA_DEL_PERSONAL_I_(PISO_2,_SUR_1,_Frente_a_la_conserjería)”>						
+<optgroup label=”Equipos_de_INGEOMIN”>
+SALA DEL PERSONAL  I (PISO 2, SUR 1, Frente a la conserjería)						</option>
+Equipos de INGEOMIN						</option>
+"""<option id="""	opcion256	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion257	""">"	Computadora Personal	-CPU HP / Compaq	-MXJ65202N5	6328	"Sala de Personal I, adjudicada a Freddy Angulo por INGEOMIN. 
+*Monitor Cambiado"	"Funcionando
+"	</option>
+"""<option id="""	opcion258	""">"	Computadora Personal	-*Monitor LCD HP / L1706	-CNN645070Q	6328	"Sala de Personal I, adjudicada a Freddy Angulo por INGEOMIN. 
+*Monitor Cambiado"	"Funcionando
+"	</option>
+"""<option id="""	opcion259	""">"	Computadora Personal	-Teclado HP / KB-0316	-B93CB0AVBSP0P6	6328	"Sala de Personal I, adjudicada a Freddy Angulo por INGEOMIN. 
+*Monitor Cambiado"	"Funcionando
+"	</option>
+"""<option id="""	opcion260	""">"	Computadora Personal	-Mouse HP/ 	FB7330AN3TT2AGE	6328	"Sala de Personal I, adjudicada a Freddy Angulo por INGEOMIN. 
+*Monitor Cambiado"	"Funcionando
+"	</option>
+"""<option id="""	opcion261	""">"	CPU	HP / Compaq	MXJ52403NT	2338	Sala de Personal I	"Sin Instalar.
+Asignada a Dorfe Díaz en la Florida"	</option>
+"""<option id="""	opcion262	""">"	Teclado	HP / KB-0316	B77670ACPRD17P	2338	Sala de Personal I	"Sin Instalar
+Asignada a Dorfe Díaz en la Florida"	</option>
+"""<option id="""	opcion263	""">"	Regulador de Voltaje	AVR / KE05020334	75030010629	2338	Sala de Personal I	No instalado	</option>
+"""<option id="""	opcion264	""">"	CPU	HP / Compaq	MXJ65202Q5	6423	Sala de Personal I	Sin Instalar	</option>
+"""<option id="""	opcion265	""">"	CPU	HP / Compaq	MXJ5202QB	6430	Sala de Personal I	Sin Instalar	</option>
+"""<option id="""	opcion266	""">"	Computadora Personal	-CPU HP / Compaq	-MXJ65202Q3	"- 6414
+
+-MIBAN 00001166
+"	"Sala de Personal I. Mudado desde la sala de personal  III, OFICINA 2-2N
+Agosto 2016
+"	"Funcionando
+"	</option>
+"""<option id="""	opcion267	""">"	Computadora Personal	-Monitor IBM / ThinkVision	-1S6636AC1V1M4056	"- 6414
+
+-MIBAN 00001166
+"	"Sala de Personal I. Mudado desde la sala de personal  III, OFICINA 2-2N
+Agosto 2016
+"	"Funcionando
+"	</option>
+"""<option id="""	opcion268	""">"	Computadora Personal	-Teclado HP / KB-0316	-B93CB0AVBSK0UF	"- 6414
+
+-MIBAN 00001166
+"	"Sala de Personal I. Mudado desde la sala de personal  III, OFICINA 2-2N
+Agosto 2016
+"	"Funcionando
+"	</option>
+"""<option id="""	opcion269	""">"	Computadora Personal	-Mouse HP/ 	-CT: FB7330AN3TT2A80	"- 6414
+
+-MIBAN 00001166
+"	"Sala de Personal I. Mudado desde la sala de personal  III, OFICINA 2-2N
+Agosto 2016
+"	"Funcionando
+"	</option>
+"""<option id="""	opcion270	""">"	Regulador de Voltaje	CPD / 	060626-1200748	6430	Sala de Personal I	"Funcionando
+(Asignada a DORFE)"	</option>
+"""<option id="""	opcion271	""">"	Teclado	HP / KB-0316	B93CB0AVBSP01F	No tiene	Sala de Personal I	Sin Instalar	</option>
+"""<option id="""	opcion272	""">"	Teclado	HP / KB-0316	B93CB0AVBSP0F9	No tiene	Sala de Personal I	Sin Instalar	</option>
+"""<option id="""	opcion273	""">"	Monitor	HP/L1706	CNN645070N	6403	Sala de Personal I	Dañado	</option>
+"""<option id="""	opcion274	""">"	Monitor	HP/L1706	CND7123F4H	3591	"Sala de Personal I.
+Pertenece al Genesys"	No instalado	</option>
+"""<option id="""	opcion275	""">"	Regulador de Voltage	CPD / 	060626-1200749	No Tiene	Sala de Personal I	"Funcionando
+"	</option>
+"""<option id="""	opcion276	""">"	Regulador de Voltage	CPD / 	060626-1200751	No Tiene	Sala de Personal I	"Funcionando
+(Asignada a FREDDY)"	</option>
+"""<option id="""	opcion277	""">"	Deshumificador 	Soleusair / CFM-25E	8490160002625	3448	Sala de Personal I	Funcionando	</option>
+"""<option id="""	opcion278	""">"	Deshumificador 	Soleusair / CFM-25E	8490160002613	3447	Sala de Personal I	Funcionando	</option>
+"""<option id="""	opcion279	""">"	Sacapunta electrico	ELECTRIC PENCIL SHARPENER	No tiene	1203	"Sala de Personal 
+"	Funcionando	</option>
+"""<option id="""	opcion280	""">"	Sacapunta Eléctrico de DRX	BOSTON / Mod 19	No indica	2377	"Sala de Personal II
+"	Funcionando	</option>
+"""<option id="""	opcion281	""">"	Cartelera de INGEOMIN con marco de aluminio	No indica	No indica	3587	"Entrada de la Sala de Personal I
+"	Instalado	</option>
+"""<option id="""	opcion282	""">"	Cartelera de mapa mundi	No indica	No indica	1765	Sala de Personal I	Instalado	</option>
+
+			</optgroup >
+</optgroup >
+									
+			<optgroup label=”Equipos_e_inmobiliario_de_PDVSA_INTEVEP”>						
+Equipos e inmobiliario de PDVSA-INTEVEP						</option>
+"""<option id="""	opcion288	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion289	""">"	Computadora Personal	-CPU VIT / VIT 2910-02	-A000469459	"-PDVSA 2001289
+-PDVSA 28000193"	"Sala de Personal I, adjudicada a Jesús Flores por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion290	""">"	Computadora Personal	-Monitor LCD VIT / TFT19W80PS	-A59C6BA001306	"-PDVSA 2001289
+-PDVSA 28000193"	"Sala de Personal I, adjudicada a Jesús Flores por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion291	""">"	Computadora Personal	-Teclado VIT / DOK-K5313	-KBC925K10682A	"-PDVSA 2001289
+-PDVSA 28000193"	"Sala de Personal I, adjudicada a Jesús Flores por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion292	""">"	Computadora Personal	-Mouse VIT / DOK-M696	-MSC910K13269A	"-PDVSA 2001289
+-PDVSA 28000193"	"Sala de Personal I, adjudicada a Jesús Flores por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion293	""">"	Computadora Personal	-Corneta VIT / LC-B118	-20120930035572	"-PDVSA 2001289
+-PDVSA 28000193"	"Sala de Personal I, adjudicada a Jesús Flores por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion294	""">"	Computadora Personal	-CPU VIT / VIT 2910-02	-A000469436	"-PDVSA 2001301
+-PDVSA 28000205"	"Sala de Personal I, adjudicada a Jesús Flores por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion295	""">"	Computadora Personal	-Monitor LCD VIT / TFT19W80PS	-A59C6BA011161	"-PDVSA 2001301
+-PDVSA 28000205"	"Sala de Personal I, adjudicada a Jesús Flores por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion296	""">"	Computadora Personal	-Teclado VIT / DOK-K5313	-KBC925K11593A	"-PDVSA 2001301
+-PDVSA 28000205"	"Sala de Personal I, adjudicada a Jesús Flores por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion297	""">"	Computadora Personal	-Mouse VIT / DOK-M696	-MSC925K11947A	"-PDVSA 2001301
+-PDVSA 28000205"	"Sala de Personal I, adjudicada a Jesús Flores por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion298	""">"	Computadora Personal	-Corneta VIT / LC-B118	-20120930035514	"-PDVSA 2001301
+-PDVSA 28000205"	"Sala de Personal I, adjudicada a Jesús Flores por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion299	""">"	Computadora Personal	-CPU VIT / VIT 2910-02	-A000469499	"-PDVSA 2001294
+-PDVSA 28000198"	"Sala de Personal I, adjudicada a Freddy Angulo por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion300	""">"	Computadora Personal	-Monitor LCD VIT / TFT19W80PS	-A59C6BA008888	"-PDVSA 2001294
+-PDVSA 28000198"	"Sala de Personal I, adjudicada a Freddy Angulo por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion301	""">"	Computadora Personal	-Teclado VIT / DOK-K5313	-KBC925K10695A	"-PDVSA 2001294
+-PDVSA 28000198"	"Sala de Personal I, adjudicada a Freddy Angulo por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion302	""">"	Computadora Personal	-Mouse VIT / DOK-M696	-MSC910K13259A	"-PDVSA 2001294
+-PDVSA 28000198"	"Sala de Personal I, adjudicada a Freddy Angulo por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion303	""">"	Computadora Personal	-Corneta:  No tiene	-20120930035514	"-PDVSA 2001294
+-PDVSA 28000198"	"Sala de Personal I, adjudicada a Freddy Angulo por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion304	""">"	Computadora Personal	-CPU VIT / VIT 2910-02	-A000469447	"-PDVSA 2001290
+-PDVSA 28000194"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion305	""">"	Computadora Personal	-Monitor LCD VIT / TFT19W80PS	-A59C6BA010322	"-PDVSA 2001290
+-PDVSA 28000194"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion306	""">"	Computadora Personal	-Teclado VIT / DOK-K5313	-KBC925K10685A	"-PDVSA 2001290
+-PDVSA 28000194"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion307	""">"	Computadora Personal	-Mouse VIT / DOK-M696	-MSC910K13230A	"-PDVSA 2001290
+-PDVSA 28000194"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion308	""">"	Computadora Personal	-Corneta VIT / LC-B118	-20120930013347	"-PDVSA 2001290
+-PDVSA 28000194"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion309	""">"	Computadora Personal	-CPU VIT / VIT 2910-02	-A000469442	"-PDVSA 2001299
+-PDVSA 28000203"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion310	""">"	Computadora Personal	-Monitor LCD VIT / TFT19W80PS	-A59C6BA011194	"-PDVSA 2001299
+-PDVSA 28000203"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion311	""">"	Computadora Personal	-Teclado VIT / DOK-K5313	-KBC925K10883A	"-PDVSA 2001299
+-PDVSA 28000203"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion312	""">"	Computadora Personal	-Mouse VIT / DOK-M696	-MSC925K11954A	"-PDVSA 2001299
+-PDVSA 28000203"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion313	""">"	Computadora Personal	-Corneta VIT / LC-B118	-20120930013357	"-PDVSA 2001299
+-PDVSA 28000203"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion314	""">"	Computadora Personal	-CPU VIT / VIT 2910-02	-A000469489	"-PDVSA 2001292
+-PDVSA 28000196"	"Sala de Personal I, adjudicada a Dorfe Diaz por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion315	""">"	Computadora Personal	-Monitor LCD VIT / TFT19W80PS	-A59C6BA013325	"-PDVSA 2001292
+-PDVSA 28000196"	"Sala de Personal I, adjudicada a Dorfe Diaz por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion316	""">"	Computadora Personal	-Teclado VIT / DOK-K5313	-KBC925K10697A	"-PDVSA 2001292
+-PDVSA 28000196"	"Sala de Personal I, adjudicada a Dorfe Diaz por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion317	""">"	Computadora Personal	-Mouse VIT/ DOK-M696	MSC925K11925A	"-PDVSA 2001292
+-PDVSA 28000196"	"Sala de Personal I, adjudicada a Dorfe Diaz por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion318	""">"	Computadora Personal	-Corneta VIT / LC-B118	-20120930013350	"-PDVSA 2001292
+-PDVSA 28000196"	"Sala de Personal I, adjudicada a Dorfe Diaz por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion319	""">"	Computadora Personal	-CPU VIT / VIT 2910-02	-A000469532	"-PDVSA 2001293
+-PDVSA 28000197"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion320	""">"	Computadora Personal	-Monitor LCD VIT / TFT19W80PS	-A59C6BA009257	"-PDVSA 2001293
+-PDVSA 28000197"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion321	""">"	Computadora Personal	-Teclado VIT / DOK-K5313	-KBC925K10696A	"-PDVSA 2001293
+-PDVSA 28000197"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion322	""">"	Computadora Personal	-Mouse VIT/ DOK-M696	-MSC925K11967A	"-PDVSA 2001293
+-PDVSA 28000197"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion323	""">"	Computadora Personal	-Corneta VIT / LC-B118	-20120930013318	"-PDVSA 2001293
+-PDVSA 28000197"	"Sala de Personal I, adjudicada a INGEOMIN por INTEVEP. Pertenece a PDVSA
+"	Funcionando	</option>
+"""<option id="""	opcion324	""">"	Deshumificador 	LG	No Tiene	PDVSA 200602961	"Sala de Personal I
+Pertenece a PDVSA"	Funcionando	</option>
+"""<option id="""	opcion325	""">"	Deshumificador 	With - Westighouse	No Tiene	No Tiene	"Sala de Personal I
+Pertenece a PDVSA"	Funcionando	</option>
+"""<option id="""	opcion326	""">"	Biblioteca	No indica	No Tiene	No Tiene	"Sala de Personal I
+Pertenece a PDVSA"	Funcionando	</option>
+"""<option id="""	opcion327	""">"	Nueve (9) escritorios y ocho (9) Arturitos	No indica	No Tiene	No Tiene	"Sala de Personal I
+Pertenece a PDVSA"	Funcionando	</option>
+"""<option id="""	opcion328	""">"	Siete (7) Sillas Giratoria de tela color azul con brazos ajustables	Depanel de Venezuela CA / Mod paris	No Tiene	No Tiene	"Sala de Personal I
+Pertenece a PDVSA"	Funcionando	</option>
+"""<option id="""	opcion329	""">"	Cartelera Acrilica	SISTEVIS	No indica	No indica	"Sala de Personal I
+Pertenece a PDVSA"	Instalado	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”SALA_DE_PERSONAL_II_(Sur_1,_Piso_2,_al_fondo_del_Pasillo)”>						
+SALA DE PERSONAL II (Sur 1, Piso 2, al fondo del Pasillo)						</option>
+<optgroup label=”Equipos_de_INGEOMIN”>
+Equipos de INGEOMIN						</option>
+"""<option id="""	opcion337	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion338	""">"	CPU	No Tiene 	No tiene 	No tiene	Sala de Personal II 	Sin instalar. No tiene disco duro, ni memoria. No se sabe a quién estaba asignada	</option>
+"""<option id="""	opcion339	""">"	Impresora	HP / Business Inkjet 1200n	TH55H340KW	2419	Sala de Personal II 	Sin instalar	</option>
+"""<option id="""	opcion340	""">"	Impresora	HP / Officejet Pro K550	MY68L61014	No tiene	Sala de Personal II	Sin instalar	</option>
+"""<option id="""	opcion341	""">"	Monitor	ViewSonic / VG910b	A32050355031	1475	Sala de Personal II	Sin instalar	</option>
+"""<option id="""	opcion342	""">"	Monitor	Compaq / VS70	136BM26GA139	1772	Sala de Personal II 	Sin instalar	</option>
+"""<option id="""	opcion343	""">"	Teléfono	Panasonic / KX-TS3	1GBAB012083	1619	Sala de Personal II 	Sin instalar	</option>
+"""<option id="""	opcion344	""">"	Sacapunta Eléctrico	BOSTON / Mod 19	No indica	No Tiene	"Sala de Personal II
+"	Funcionando	</option>
+"""<option id="""	opcion345	""">"	Cartelera del mapa de Venezuela en relieve	No indica	No indica	35801	Sala de Personal II 	Sin instalar	</option>
+"""<option id="""	opcion346	""">"	Teclado	HP / SK-1688	C0501083350	2051	Sala de Personal II 	Sin instalar	</option>
+"""<option id="""	opcion347	""">"	Teclado	SIEMENS / NIXDORF	ID-NR0G761DJ001	1887	Sala de Personal II 	Sin instalar	</option>
+"""<option id="""	opcion348	""">"	Teclado	COMPAQ / KB-9963	CT: B28980LGAM90KP	1759	Sala de Personal II 	Sin instalar	</option>
+"""<option id="""	opcion349	""">"	Teclado	DELL / AT-102W	M013010881	1885	Sala de Personal II 	Sin instalar	</option>
+
+			</optgroup >
+</optgroup >
+									
+			<optgroup label=”Equipos_e_inmobiliarios_de_PDVSA_INTEVEP_de_la_sala_II”>						
+Equipos e inmobiliarios de PDVSA-INTEVEP de la sala II						</option>
+"""<option id="""	opcion355	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion356	""">"	Computadora Personal	-CPU VIT / VIT 2910-02	-A000469483	"-PDVSA 2001291
+-PDVSA 28000200"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion357	""">"	Computadora Personal	-Monitor LCD VIT / TFT19W80PS	-A59C6BA008890	"-PDVSA 2001291
+-PDVSA 28000200"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion358	""">"	Computadora Personal	-Teclado VIT / DOK-K5313	-KBC925K10820A	"-PDVSA 2001291
+-PDVSA 28000200"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion359	""">"	Computadora Personal	-Mouse VIT/ DOK-M696	-MSC925K11966A	"-PDVSA 2001291
+-PDVSA 28000200"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion360	""">"	Computadora Personal	-Corneta VIT / LC-B118	-20120930013332	"-PDVSA 2001291
+-PDVSA 28000200"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion361	""">"	Computadora Personal	-CPU VIT / VIT 2910-02	-A000469474	"-PDVSA 2001297
+-PDVSA 28000199"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion362	""">"	Computadora Personal	-Monitor LCD VIT / TFT19W80PS	-A59C6BA011165	"-PDVSA 2001297
+-PDVSA 28000199"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion363	""">"	Computadora Personal	-Teclado VIT / DOK-K5313	-KBC925K10699A	"-PDVSA 2001297
+-PDVSA 28000199"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion364	""">"	Computadora Personal	-Mouse VIT/ DOK-M696	-MSC925K11999A	"-PDVSA 2001297
+-PDVSA 28000199"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion365	""">"	Computadora Personal	5.-Corneta VIT / LC-B118	5.-20120930013313	"-PDVSA 2001297
+-PDVSA 28000199"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion366	""">"	Computadora Personal	-CPU VIT / VIT 2910-02	-A000469463	"-PDVSA 2001298
+-PDVSA 28000201"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion367	""">"	Computadora Personal	-Monitor LCD VIT / TFT19W80PS	-A59C6BA009272	"-PDVSA 2001298
+-PDVSA 28000201"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion368	""">"	Computadora Personal	-Teclado VIT / DOK-K5313	-KBC925K10817A	"-PDVSA 2001298
+-PDVSA 28000201"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion369	""">"	Computadora Personal	-Mouse VIT/ DOK-M696	-MSC925K11986A	"-PDVSA 2001298
+-PDVSA 28000201"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion370	""">"	Computadora Personal	-Corneta VIT / LC-B118	-20120930013315	"-PDVSA 2001298
+-PDVSA 28000201"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion371	""">"	Computadora Personal	-CPU VIT / VIT 2910-02	-A000469456	"-PDVSA 2001300
+-PDVSA 28000204"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion372	""">"	Computadora Personal	-Monitor LCD VIT / TFT19W80PS	-A59C6BA011007	"-PDVSA 2001300
+-PDVSA 28000204"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion373	""">"	Computadora Personal	-Teclado VIT / DOK-K5313	-KBC925K10802A	"-PDVSA 2001300
+-PDVSA 28000204"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion374	""">"	Computadora Personal	-Mouse VIT/ DOK-M696	-MSC910K13271A	"-PDVSA 2001300
+-PDVSA 28000204"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion375	""">"	Computadora Personal	-Corneta VIT / LC-B118	-20120930035590	"-PDVSA 2001300
+-PDVSA 28000204"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion376	""">"	Computadora Personal	-CPU VIT / VIT 2910-02	-A000469488	"-PDVSA 2001295
+-PDVSA 28000202"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion377	""">"	Computadora Personal	-Monitor LCD VIT / TFT19W80PS	-A59C6BA011202	"-PDVSA 2001295
+-PDVSA 28000202"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion378	""">"	Computadora Personal	-Teclado VIT / DOK-K5313	-KBC925K10687A	"-PDVSA 2001295
+-PDVSA 28000202"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion379	""">"	Computadora Personal	-Mouse VIT/ DOK-M696	-MSC910K13272A	"-PDVSA 2001295
+-PDVSA 28000202"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion380	""">"	Computadora Personal	-Corneta VIT / LC-B118	-20120930035504	"-PDVSA 2001295
+-PDVSA 28000202"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion381	""">"	Computadora Personal	-CPU VIT / VIT 2910-02	-A000469455	"-PDVSA 2001296
+-PDVSA 28000195"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion382	""">"	Computadora Personal	-Monitor LCD VIT / TFT19W80PS	-A59C6BA011220	"-PDVSA 2001296
+-PDVSA 28000195"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion383	""">"	Computadora Personal	-Teclado VIT / DOK-K5313	-KBC925K10886A	"-PDVSA 2001296
+-PDVSA 28000195"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion384	""">"	Computadora Personal	-Mouse VIT/ DOK-M696	-MSC925K11985A	"-PDVSA 2001296
+-PDVSA 28000195"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion385	""">"	Computadora Personal	-Corneta VIT / LC-B118	-20120930013340	"-PDVSA 2001296
+-PDVSA 28000195"	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion386	""">"	CPU	HP / VETRA XM SERIE 4     5/150	US63051605	INTesa: 041217	Sala de Personal II, Pertenece a PDVSA- INTEVEP.	Sin instalar	</option>
+"""<option id="""	opcion387	""">"	CPU	HP / VETRA XM SERIE 4     5/150	US62954017	INTesa: 040863	Sala de Personal II, Pertenece a PDVSA- INTEVEP	Sin instalar	</option>
+"""<option id="""	opcion388	""">"	Cartelera acrílica	No indica	No indica	No indica	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion389	""">"	"Seis (6) mesas de madera de color beig
+Con (5) arturitos de dos gavetas"	No indica	No indica	No indica	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion390	""">"	Tres (3) bibliotecas de madera de cuatro divisiones	No indica	No indica	No indica	Sala de Personal II, adjudicada a INGEOMIN por PDVSA- INTEVEP. Pertenece a	Funcionando	</option>
+"""<option id="""	opcion391	""">"	Tres (3) Sillas Giratoria de tela color azul con brazos ajustables	Depanel de Venezuela CA / Mod paris	No Tiene	No Tiene	"Sala de Personal II
+Pertenece a PDVSA"	Funcionando	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”SALA_DE_PERSONAL_III_(Oficina_2_2N)_(Sur_1,_piso_2,_pasillo_Norte_al_fondo)”>						
+SALA DE PERSONAL III (Oficina 2-2N) (Sur 1, piso 2, pasillo Norte al fondo)						</option>
+<optgroup label=”Equipos_de_INGEOMIN”>
+Equipos de INGEOMIN						</option>
+"""<option id="""	opcion399	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion400	""">"	Archivo de madera de color marrón veteado y cuatro gavetas	No indica	No indica	60108	"Sala de Personal III, oficina 2-2N
+"	Operativa	</option>
+"""<option id="""	opcion401	""">"	Molino de Bolas de cerámica	LUMARD	No indica	No tiene	Sala de Personal III, oficina 2-2N	Por Probar	</option>
+"""<option id="""	opcion402	""">"	Teléfono Blanco	Panasonic / KX-TS3	1GBAB012136	1824	Sala de Personal III, oficina 2-2N	Por Probar	</option>
+"""<option id="""	opcion403	""">"	Teléfono Blanco	Panasonic / KX-TS3	1GBAB012125	1616	Sala de Personal III, oficina 2-2N	Por Probar	</option>
+"""<option id="""	opcion404	""">"	Calculadora	HP / 91	No tiene	317?6	Sala de Personal III, oficina 2-2N	No funciona	</option>
+
+			</optgroup >
+</optgroup >						
+									
+			<optgroup label=”Equipos_e_inmobiliarios_de_PDVSA_INTEVEP”>						
+Equipos e inmobiliarios de PDVSA- INTEVEP						</option>
+"""<option id="""	opcion410	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion411	""">"	Escritorio sin gaveta con extensión de color marrón veteado	No indica	No tiene	No tiene	"Sala de Personal III, oficina 2-2N.
+Pertenece a PDVSA - INTEVEP"	Instalado	</option>
+"""<option id="""	opcion412	""">"	Escritorio sin gaveta con Arturito de dos gavetas de color marrón veteado	No indica	No tiene	No tiene	"Sala de Personal III, oficina 2-2N.
+Pertenece a PDVSA - INTEVEP"	Instalado	</option>
+"""<option id="""	opcion413	""">"	Biblioteca de color marrón veteada de cuatro espacios	No indica	No indica	No indica	"Sala de Personal III, oficina 2-2N.
+Pertenece a PDVSA - INTEVEP"	Instalado	</option>
+"""<option id="""	opcion414	""">"	Archivo marrón veteada de cuatro gavetas	No indica	No indica	No indica	"Sala de Personal III, oficina 2-2N.
+Pertenece a PDVSA - INTEVEP"	Instalado	</option>
+"""<option id="""	opcion415	""">"	Pizarra acrilica	No indica	No indica	No indica	"Sala de Personal III, oficina 2-2N.
+Pertenece a PDVSA - INTEVEP"	Instalado	</option>
+"""<option id="""	opcion416	""">"	Pizarra de corcho	SISTEVIS	No indica	No indica	"Sala de Personal III, oficina 2-2N.
+Pertenece a PDVSA - INTEVEP"	Instalado	</option>
+"""<option id="""	opcion417	""">"	Silla Giratoria de tela con espaldar, de color azul con brazos ajustables	Depanel de Venezuela CA / Mod paris	No Tiene	No Tiene	"Sala de Personal III, oficina 2-2N.
+Pertenece a PDVSA - INTEVEP"	Operativa	</option>
+"""<option id="""	opcion418	""">"	Teléfono	Panasonic / KX-TS15LX-W	611059935	PDVSA 20090663	"Sala de Personal III, oficina 2-2N.
+Pertenece a PDVSA - INTEVEP"	Sin instalar	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”LABORATORIO_3,_Mineralogía_(Sur_2,_PB,_pasillo_norte,_Lab_3)”>						
+LABORATORIO 3, Mineralogía (Sur 2, PB, pasillo norte, Lab 3)						</option>
+<optgroup label=”MEB_EDS”>
+MEB-EDS						</option>
+"""<option id="""	opcion426	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion427	""">"	Microscopio Electrónico de Barrido (MEB) con Espectrómetro de Energía Dispersiva (EDS)	JEOL / JSM-5910LV	MP17720044	1848	"Laboratorio 3
+(Mineralogía)"	100% Operativo	</option>
+"""<option id="""	opcion428	""">"	Bombas Rotatorias del MEB 1	"1.- ULVAC
+
+"	"1.- SN 22676
+
+"	No indica	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion429	""">"	Bombas Rotatorias del MEB 2	2.- ULVAC	2.- SN 22714	No indica	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion430	""">"	Reóstato del MEB	STACO Energy / 2510CT	No indica	No indica	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion431	""">"	Recirculador del MEB	HASKRIS	HA13277	No Tiene	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion432	""">"	Recirculador del MEB	EYELA / CA-111	10291557	59858	"Laboratorio 3
+(Mineralogía)"	No Operativo	</option>
+"""<option id="""	opcion433	""">"	"Equipo del MEB
+Unidad LV"	No indica	No indica	No indica	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion434	""">"	Computadora del MEB	- CPU: DELL / PRECISIA 340	- B935911	- No Tiene	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion435	""">"	Computadora del MEB	- Monitor: NEC / MultiSync LCD 1850X	- LH-18502-1	-2401	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion436	""">"	Computadora del MEB	- Teclado: DELL / RT7D0	- TH-025PGG-37171-21F-5489	-1846	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion437	""">"	Computadora del MEB	- Mouse: DELL	- LZA14550568	-1847	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion438	""">"	Equipo de Adquisición Digital del EDS	Thermo NORAN / VANTAGE, Serie VTG	302451	No indica	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion439	""">"	Equipo del EDS	Thermo NORAN / C10002	No indica	No indica	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion440	""">"	EDS del MEB	THERMO / 6695ª-1 NUS-SN	6599	No indica	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion441	""">"	Computador del EDS	-CPU: DELL / OPTIPLEX GX400	- C5TW911	-1852	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion442	""">"	Computador del EDS	- Monitor: DELL / VANTAGE	"- MY04D02054
+760322MD73P"	-1849	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion443	""">"	Computador del EDS	- Teclado: DELL / RT7D00	- TH-025PGG-371-21P-7730	-1850	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion444	""">"	Computador del EDS	-Mouse: DELL/	- ID 63618-OEM	-1851	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion445	""">"	Recubridor Iónico	"- DENTON / DESK II
+
+- DENTON Vacuum / Mod carB ROD"	"-41333
+
+"	-2410	"Laboratorio 3
+(Mineralogía)"	dañado	</option>
+"""<option id="""	opcion446	""">"	Evaporador de Vacío	JEOL / JEE-4X	EM-300073-458	59857	"Laboratorio 3
+(Mineralogía)"	Dañado	</option>
+"""<option id="""	opcion447	""">"	Sacapunta electrico	Panasonic / NO. KP-775	No tiene	1845	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+
+			</optgroup >
+</optgroup >						
+									
+			<optgroup label=”Equipo_de_DRX”>						
+EQUIPO DE DRX						</option>
+"""<option id="""	opcion453	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion454	""">"	Difractómetro de Rayos X (DRX)	PHILLIPSn / X´Pert	DY1468128	1883	"Laboratorio 3
+(Mineralogía)"	No Instalado	</option>
+"""<option id="""	opcion455	""">"	UPS del DRX	/12kva	1007141509	2307	"Laboratorio 3
+(Mineralogía)"	No Instalado	</option>
+"""<option id="""	opcion456	""">"	Computadora del DRX	-CPU: DELL / OPTIPLEX GX150	- G88850J	-2394	"Laboratorio 3
+(Mineralogía)"	No Instalado	</option>
+"""<option id="""	opcion457	""">"	Computadora del DRX	- Monitor: Samsung/ 216BW	- ME22H9LQ108899V	- XXXX	"Laboratorio 3
+(Mineralogía)"	No Instalado	</option>
+"""<option id="""	opcion458	""">"	Computadora del DRX	- Teclado: DELL / AT102W	- M0008007197	-1888	"Laboratorio 3
+(Mineralogía)"	No Instalado	</option>
+"""<option id="""	opcion459	""">"	Computadora del DRX	-Mouse: Aiteg/ UM2018	-6751056	- XXXX	"Laboratorio 3
+(Mineralogía)"	No Instalado	</option>
+"""<option id="""	opcion460	""">"	Impresora del DRX	HP / DESKJET 970 Cxi	ES11B1724R	1886	Salón del personal I	Sin Instalar	</option>
+"""<option id="""	opcion461	""">"	Chiller del DRX	NESLAB / HX300	101036070	2402	"Laboratorio 3
+(Mineralogía)"	No Instalado	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”Equipo_de_EDFRX”>						
+Equipo de EDFRX						</option>
+"""<option id="""	opcion467	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion468	""">"	Espectrómetro de Fluorescencia de rayos X de energía Dispersiva (EDFRX)	Shimadzu / 720P	Q23844900014AE	No Tiene	"Laboratorio 3
+(Mineralogía)"	"Parcialmente Operativo
+(Necesita revisión de la casa representante)"	</option>
+"""<option id="""	opcion469	""">"	Bomba de vacío rotatoria del EDFRX	EDWARDS / RV3	99423944	No Tiene	"Laboratorio 3
+(Mineralogía)"	Operativo	</option>
+"""<option id="""	opcion470	""">"	Transformador	RUSA Qustro Wid	No indica	No tiene	"Laboratorio 3
+(Mineralogía)"	No Instalado	</option>
+"""<option id="""	opcion471	""">"	Computadora del EDFRX	-CPU: DELL / OPTIPLEX GX790	"- B960C5J
+
+
+
+"	No indica	"Laboratorio 3
+(Mineralogía)"	"Instalado.
+-La impresora no funciona"	</option>
+"""<option id="""	opcion472	""">"	Computadora del EDFRX	- Monitor: Samsung/ 216BW	"- 
+ME22H9LQ108899V"	No indica	"Laboratorio 3
+(Mineralogía)"	"Instalado.
+-La impresora no funciona"	</option>
+"""<option id="""	opcion473	""">"	Computadora del EDFRX	- Teclado: DELL / KB212-B	-	No indica	"Laboratorio 3
+(Mineralogía)"	"Instalado.
+-La impresora no funciona"	</option>
+"""<option id="""	opcion474	""">"	Computadora del EDFRX	-Mouse: DELL/	- CNOGCOXY-71581-21Q-01EV-A01	No indica	"Laboratorio 3
+(Mineralogía)"	"Instalado.
+-La impresora no funciona"	</option>
+"""<option id="""	opcion475	""">"	Computadora del EDFRX	- Impresora: HP OFFICEJET 6100	- CN-21C1B18V	No indica	"Laboratorio 3
+(Mineralogía)"	"Instalado.
+-La impresora no funciona"	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”Laboratorio_3”>						
+Laboratorio 3						</option>
+"""<option id="""	opcion481	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion482	""">"	Computadora	- CPU: HP / COMPAQ	- MXJ65202P0	-6393	"Laboratorio 3
+(Mineralogía)"	"-Operativo
+-El monitor no funciona"	</option>
+"""<option id="""	opcion483	""">"	Computadora	- Monitor LCD: HP  / L1706	- CNN6450609	-XXXX	"Laboratorio 3
+(Mineralogía)"	"-Operativo
+-El monitor no funciona"	</option>
+"""<option id="""	opcion484	""">"	Computadora	-Teclado: HP / KB-0316	- B93CBOAVBSPOM6	-XXXX	"Laboratorio 3
+(Mineralogía)"	"-Operativo
+-El monitor no funciona"	</option>
+"""<option id="""	opcion485	""">"	Computadora	- Mouse: HP / CT: PB733OAN3TT2AGP	- FB7330AN3TT2AGP	-XXXX	"Laboratorio 3
+(Mineralogía)"	"-Operativo
+-El monitor no funciona"	</option>
+"""<option id="""	opcion486	""">"	Computadora	-Regulador de Voltaje: CPD/B-AVR1006	-060828-1202432	-XXXX	"Laboratorio 3
+(Mineralogía)"	"-Operativo
+-El monitor no funciona"	</option>
+"""<option id="""	opcion487	""">"	Deshumificador	Soleusair / CFM-25E	8490160002585	3413	"Laboratorio 3
+(Mineralogía)"	Funcionando	</option>
+"""<option id="""	opcion488	""">"	Lupa	ZEISS / STEM1 SV8	475108-9903	53739	"Laboratorio 3
+(Mineralogía)"	Funcionando	</option>
+"""<option id="""	opcion489	""">"	Lupa	ZEISS / 2,5x	475110-9901	44416	"Laboratorio 3
+(Mineralogía)"	Funcionando	</option>
+"""<option id="""	opcion490	""">"	Microscopio Optico	LEITZ / SM-LUX	No indica	55146	"Laboratorio 3
+(Mineralogía)"	Funcionando	</option>
+"""<option id="""	opcion491	""">"	Baño de Ultrasonido	JICA	90066	59859	"Laboratorio 3
+(Mineralogía)"	Funcionando	</option>
+"""<option id="""	opcion492	""">"	UPS color Negro	Ablerex / MSII 10000	MA054420001	No tiene	"Laboratorio 3
+(Mineralogía)"	No Instalado	</option>
+"""<option id="""	opcion493	""">"	UPS	AVTEK / 10KS	1066833	935	"Laboratorio 3
+(Mineralogía)"	No Instalado	</option>
+"""<option id="""	opcion494	""">"	Desecador de gabinete metálico pequeño	Boekel	No indica	14182	"Laboratorio 3
+(Mineralogía)"	Operativa	</option>
+"""<option id="""	opcion495	""">"	Desecador  de gabinete metálico pequeño	Boekel	No indica	14181	"Laboratorio 3
+(Mineralogía)"	Operativa	</option>
+"""<option id="""	opcion496	""">"	Caja de madera para porta láminas de  DRX y petrografía	ARTHUR H. THOMAS CO	No indica	6663	"Laboratorio 3
+(Mineralogía)"	Operativa	</option>
+"""<option id="""	opcion497	""">"	Caja de madera para porta láminas de  DRX y petrografía	ARTHUR H. THOMAS CO	No indica	6658	"Laboratorio 3
+(Mineralogía)"	Operativa	</option>
+"""<option id="""	opcion498	""">"	Aire acondicionado. Unidades de manejo de aire para agua helada de 90.000BTU (7,5tR) con descarga de aire horizontal en 208/3/60	FRIOVEN / THU90AH	300120137393	No indica	"Laboratorio 3
+(Mineralogía)"	"Operativa
+(Equipo suministrado e instalado por DEQUIMEN en reemplazo de los AA Extraviados durante la mudanza)"	</option>
+"""<option id="""	opcion499	""">"	Dremer			3653	"Laboratorio 3
+(Mineralogía)"	Operativa	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”Equipos_e_inmobiliario_de_PDVSA_INTEVEP”>						
+Equipos e inmobiliario de PDVSA-INTEVEP						</option>
+"""<option id="""	opcion505	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion506	""">"	"Vitrina de Pared
+con puertas de vidrio corredizas"	No indica	No indica	No tiene	"Laboratorio 3
+(Mineralogía)
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion507	""">"	"Vitrina de Pared
+con puertas de vidrio corredizas"	No indica	No indica	199703547	"Laboratorio 3
+(Mineralogía)
+Pared del lado derecho Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion508	""">"	"Vitrina de Pared
+con puertas de vidrio corredizas"	No indica	No indica	No tiene	"Laboratorio 3
+(Mineralogía)
+Pared del lado derecho
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion509	""">"	Escritorio	No indica	No indica	9-231-0056	"Laboratorio 3
+(Mineralogía)
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion510	""">"	"Vitrina de Pared
+con puertas de vidrio corredizas"	No indica	No indica	9-123-0515	"Laboratorio 3
+(Mineralogía)
+Pared a la derecha
+Pertenece a PDVSA-INTEVEP"	Operativo	</option>
+"""<option id="""	opcion511	""">"	"Vitrina de Pared
+con puertas de vidrio corredizas"	No indica	No indica	No Tiene	"Laboratorio 3
+(Mineralogía)
+Pared a la derecha
+Pertenece a PDVSA-INTEVEP"	Operativo	</option>
+"""<option id="""	opcion512	""">"	Gabinete de Pared con dos puertas	No indica	No indica	No Tiene	"Laboratorio 3
+(Mineralogía)
+Pared a la derecha
+Pertenece a PDVSA-INTEVEP"	Operativo	</option>
+"""<option id="""	opcion513	""">"	Escritorio del EDFRX	No indica	No indica	9-128-0541	"Laboratorio 3
+(Mineralogía)
+Pertenece a PDVSA-INTEVEP"	Instalado en su lugar	</option>
+"""<option id="""	opcion514	""">"	Mesa	No indica	No indica	No indica	"Laboratorio 3
+(Mineralogía)
+Pertenece a PDVSA-INTEVEP"	Instalado en su lugar	</option>
+"""<option id="""	opcion515	""">"	Vitrina de Pared con puertas de vidrio corredizas	No indica	No indica	9-123-0107	"Laboratorio 3
+(Mineralogía)
+Pared a la izquierda
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion516	""">"	Cinco gabinetes de cuatro gavetas	No indica	No indica	No indica	"Laboratorio 1
+Mineralogía Pared de la derecha
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion517	""">"	Dos gabinetes de cinco gavetas	No indica	No indica	No indica	"Laboratorio 1
+Mineralogía
+Pared de la derecha
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion518	""">"	Dos gabinetes de dos gavetas y dos puertas	No indica	No indica	No indica	"Laboratorio 1
+Mineralogía
+Pared de la derecha
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion519	""">"	Gabinete con dos puertas con fregador	No indica	No indica	No indica	"Laboratorio 1
+Mineralogía
+Pared de la derecha
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion520	""">"	Cincos (5) Sillas Giratoria de tela color azul con brazos ajustables	Depanel de Venezuela CA	No Tiene	No Tiene	"Laboratorio 1
+Mineralogía
+Pertenece a PDVSA-INTEVEP"	Funcionando	</option>
+"""<option id="""	opcion521	""">"	Pizarra de Corcho	SISTEVIS	No indica	No indica	"Laboratorio 1
+Mineralogía
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion522	""">"	Pizarra acrílica pequeña	No indica	No indica	No indica	"Laboratorio 1
+Mineralogía
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion523	""">"	Pizarra acrílica grande	No indica	No indica	No indica	"Laboratorio 1
+Mineralogía
+Pertenece a PDVSA-INTEVEP"	Sin instalar	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”LABORATORIO_9_(AGUAS)”>						
+LABORATORIO 9 (AGUAS)						</option>
+<optgroup label=”Laboratorio_9”>
+Laboratorio 9						</option>
+"""<option id="""	opcion532	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion533	""">"	Espectrofotómetro de UV-Visible	- Thermo Scientific / Genesys 10UV	-2G8K253001	-3590	"-Laboratorio 9
+(Aguas)"	Sin instalar, sin bomba peristáltica, sin CPU y sin monitor	</option>
+"""<option id="""	opcion534	""">"	Espectrofotómetro de UV-Visible	-Bomba Peristáltica: Modelo 335982,	-G0773732	-3590	-Perdido durante mudanza del 2012	Sin instalar, sin bomba peristáltica, sin CPU y sin monitor	</option>
+"""<option id="""	opcion535	""">"	Computadora del Espectrofotómetro de UV-Visible	1.- CPU: HP	- MXJ7130087	-3591	"1.-Perdido durante la mudanza del 2012
+"	No indica	</option>
+"""<option id="""	opcion536	""">"	Computadora del Espectrofotómetro de UV-Visible	2.- Monitor: HP pantalla plana	- CND7123F4H	-3591	2.-Sala I	No indica	</option>
+"""<option id="""	opcion537	""">"	Computadora del Espectrofotómetro de UV-Visible	3.-Teclado: HP/SK-2880	-C3370ACPU7GKQ	-3591	3 y 4.- Teclado y Mouse en el laboratorio 9	No indica	</option>
+"""<option id="""	opcion538	""">"	Computadora del Espectrofotómetro de UV-Visible	4.-Mouse: HP	-C/T:FB7330AN3U3OSL9	-3591	3 y 4.- Teclado y Mouse en el laboratorio 9	No indica	</option>
+"""<option id="""	opcion539	""">"	Impresora de Tinta del Genesys	1.- HP / Deskjet D4160	- TH676834N2 	3591	"Laboratorio 9
+(Aguas)"	Sin instalar	</option>
+"""<option id="""	opcion540	""">"	Impresora de Tinta del Genesys	2.-Transformador de la impresora 0957-2084	-A7T063104	3591	"Laboratorio 9
+(Aguas)"	Sin instalar	</option>
+"""<option id="""	opcion541	""">"	Horno de Microonda	Milestone / ETHOS PWS	124868	3594	"Laboratorio 9
+(Aguas)
+Este equipo pertenece a INGEOMIN Bolívar, enviado para ser reparado"	Dañado	</option>
+"""<option id="""	opcion542	""">"	Computadora	- CPU: IBM / Think Centre	-LKCVN8W	-020000975 MIBAN	"Laboratorio 9
+(Aguas)"	Instalado	</option>
+"""<option id="""	opcion543	""">"	Computadora	- Monitor: HP / D2813	-MX64419617	-0041 MEM	"Laboratorio 9
+(Aguas)"	Instalado	</option>
+"""<option id="""	opcion544	""">"	Computadora	-Teclado: IBM / KB-0225	-542942	-976	"Laboratorio 9
+(Aguas)"	Instalado	</option>
+"""<option id="""	opcion545	""">"	Computadora	- Mouse: HP	-CT:F6AB70AUJRSVVZ	- XXXX	"Laboratorio 9
+(Aguas)"	Instalado	</option>
+"""<option id="""	opcion546	""">"	Deshumificador del FTIR	Soleusair / CFM-25E	8490160002388	3412	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+"""<option id="""	opcion547	""">"	Infrarrojo con Trasformada de Fourier (FTIR)	Thermo Electron Corporation / Nicolet 380	AGJ0700561	3595	"Laboratorio 9
+(Aguas)"	"Sin instalar
+(Falta monitor, mouse y teclado)"	</option>
+"""<option id="""	opcion548	""">"	Computadora del FTIR	1.- CPU: DELL /	"1- FC7NCC1
+
+
+"	"- 3596
+
+
+
+"	"Laboratorio 9
+(Aguas)"	Sin instalar	</option>
+"""<option id="""	opcion549	""">"	Computadora del FTIR	2.- Monitor: DELL / Perdido durante la mudanza del 2012	- CNOFJ0666418069D235S	-3596	"Laboratorio 9
+(Aguas)"	Sin instalar	</option>
+"""<option id="""	opcion550	""">"	Computadora del FTIR	"3.- Teclado: DELL
+Perdido durante la mudanza del 2012"	- CN0MW4373717268M05Z5	-3596	"Laboratorio 9
+(Aguas)"	Sin instalar	</option>
+"""<option id="""	opcion551	""">"	Computadora del FTIR	"4.- Mouse:DELL
+Perdido durante la mudanza del 2012"	-XXXX	-3596	"Laboratorio 9
+(Aguas)"	Sin instalar	</option>
+"""<option id="""	opcion552	""">"	Computadora del FTIR	"5.-Impresora: HP
+/DESKJET 6940"	-MY6AD9R0X2	-3596	"Laboratorio 9
+(Aguas)"	Sin instalar	</option>
+"""<option id="""	opcion553	""">"	Computadora del FTIR	6.- Transformador de la impresora: HP / 0957-2105	-D622AH3V1203L	-3596	"Laboratorio 9
+(Aguas)"	Sin instalar	</option>
+"""<option id="""	opcion554	""">"	Computadora del FTIR	7.- Protector de corriente: CDP/ B-AVR 1006	-070921-1294199	-3596	"Laboratorio 9
+(Aguas)"	Sin instalar	</option>
+"""<option id="""	opcion555	""">"	Cromatógrafo Iónico	DIONEX / ICS-2000	7010660	2979	"Laboratorio 9
+(Aguas)"	Dañado	</option>
+"""<option id="""	opcion556	""">"	Computadora del Cromatógrafo Iónico de BN 2979	"-CPU: DELL / OPTIPLEX 745 / DCCY
+
+-Monitor: DELL / 1707FPe pantalla plana de de 17¨
+
+- Teclado: Perdido durante la mudanza del 2012
+
+-Mouse: DELL /
+
+"	"- 3LMVHC1
+
+
+
+- CN-0CC352-64180-6BP-1DDS
+
+
+-CN0DJ4157161669BOTPP
+
+-LP/N: 831890-0000"	No indica	"Laboratorio 9
+(Aguas)"	Sin instalar y sin teclado	</option>
+"""<option id="""	opcion557	""">"	Cromatógrafo Ionico	DIONEX / ICS-2000	7010661	2978	"Laboratorio 9
+(Aguas)"	Instalado	</option>
+"""<option id="""	opcion558	""">"	Computadora del Cromatógrafo Iónico de BN 2978	- CPU: DELL / OPTIPLEX 745 / DCCY	- 1LMVHC1	- XXXX	"Laboratorio 9
+(Aguas)"	Sin instalar	</option>
+"""<option id="""	opcion559	""">"	Computadora del Cromatógrafo Iónico de BN 2978	- Monitor: DELL /	- CN-OCC352-64180-6C1-1TOL	- XXXX	"Laboratorio 9
+(Aguas)"	Sin instalar	</option>
+"""<option id="""	opcion560	""">"	Computadora del Cromatógrafo Iónico de BN 2978	"- Teclado: DELL
+Perdido durante la mudanza del 2012"	- CN0DJ4157161669BORKE	-3596	"Laboratorio 9
+(Aguas)"	Sin instalar	</option>
+"""<option id="""	opcion561	""">"	Computadora del Cromatógrafo Iónico de BN 2978	"- Mouse:DELL
+Perdido durante la mudanza del 2012"	-XXXX	-3596	"Laboratorio 9
+(Aguas)"	Sin instalar	</option>
+"""<option id="""	opcion562	""">"	UPS	AVTEK / BK Pro 2200	2009100131	No Tiene	"Laboratorio 9
+(Aguas)"	Sin Instalar	</option>
+"""<option id="""	opcion563	""">"	Regulador de Voltaje	CDP (Chicago Digital Power)  /	070921-1294199	No indica	"Laboratorio 9
+(Aguas)"	Instalado	</option>
+"""<option id="""	opcion564	""">"	Impresora de tinta del cromatógrafo iónico	HP / Deskjet D4160	TH6828359H	No tiene 	"
+Laboratorio 16
+"	Sin instalar	</option>
+"""<option id="""	opcion565	""">"	Impresora del Cromatógrafo iónico	HP / Deskjet 4160	TH676834MK	No indica	"Laboratorio 9
+(Aguas)"	Sin Instalar (Nuevo de caja)	</option>
+"""<option id="""	opcion566	""">"	Analizador de iones	ORION / EA920	PQ29A	"60113
+"	"Laboratorio 9
+(Aguas)"	Sin Instalar	</option>
+"""<option id="""	opcion567	""">"	Balanza Semi-Analítica	Precisa / XB10200G	74051	2976	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+"""<option id="""	opcion568	""">"	Baño de Ultrasonido	Cole Parmer / 8892	QCB03079485F	8892	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+"""<option id="""	opcion569	""">"	Baño de Ultrasonido	SONICOR / SC-101TH	14347-0677	55559	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+"""<option id="""	opcion570	""">"	Baño de Maria	Cole – Parmer / Polystat / Mod 10L	107300811	3539	"Laboratorio 9
+(Aguas)"	Falta Probar	</option>
+"""<option id="""	opcion571	""">"	Medidor de Humedad Karl Fischerl	"MothoHM  HERISAU /
+
+- Automat E547/1
+
+-Multi-Dosimat E415"	"
+
+
+-Nr 22/2828
+
+-Nr 81/6423"	33334	"Laboratorio 9
+(Aguas)"	Falta por instalar	</option>
+"""<option id="""	opcion572	""">"	Bomba de Vacío de una etapa 1,5 CFM	Frigorex / FBV-1,5-1/4	No indica	3528	"Laboratorio 9
+(Aguas)
+"	Sin Instalar	</option>
+"""<option id="""	opcion573	""">"	Estufa	PRECISION / THELCO	601101127	580	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+"""<option id="""	opcion574	""">"	Nevera	BOSCH / INTELLIGENT Frost Free / KSU38	200039186	No Tiene	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+"""<option id="""	opcion575	""">"	Pulverizadora de rocas	SPEX / Mixer / Mill	671112	6809	"Laboratorio 9
+(Aguas)"	No Probado	</option>
+"""<option id="""	opcion576	""">"	Cortadora de Rocas	BUEHLER / Lapro Mod 11-1366	641-L24-301	3633	"Laboratorio 9
+(Aguas)"	No instalado	</option>
+"""<option id="""	opcion577	""">"	Cortadora de Rocas	HIGHLAND PARK / J3	30388	55246	"Laboratorio 9
+(Aguas)"	No instalado	</option>
+"""<option id="""	opcion578	""">"	Dos (2) Phmetro	"Orion Research /
+
+- Ionalyzer 407 A/F
+
+- Ionalyzer 399 A/F"	"
+
+-39296
+
+-81167"	"
+
+-60153
+
+- 35743
+
+"	"Laboratorio 9
+(Aguas)"	Por Probar	</option>
+"""<option id="""	opcion579	""">"	pHmetro	Orion Research / SA210	3897	60112	"Laboratorio 9
+(Aguas)"	Por Probar	</option>
+"""<option id="""	opcion580	""">"	Turbidimetro	Thermo electron Corporation - Orion / AQUAfast field Kit – AQ4500	No indica	No indica	"Laboratorio 9
+(Aguas)"	Por probar	</option>
+"""<option id="""	opcion581	""">"	"pH metro de campo
+Multimetro"	WTW /Multi 340i	6110772	No indica	"Laboratorio 9
+(Aguas)"	Por probar	</option>
+"""<option id="""	opcion582	""">"	Cronometro	LAB-LINE / Kwik-set Lab-Chron	1405	No indica	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+"""<option id="""	opcion583	""">"	Plancha de calentamiento y agitación	Thermolyne / Cimarec 2 Mod SP46925	1069030719959	2034	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+"""<option id="""	opcion584	""">"	Plancha de calentamiento	Corning	No indica	55548	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+"""<option id="""	opcion585	""">"	Plancha de calentamiento	Corningn / PC100	9688	40105	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+"""<option id="""	opcion586	""">"	Plancha de agitación	Cole-Parmer / Spin-Master Mod 4802	144852	55182	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+"""<option id="""	opcion587	""">"	Reostato	SE / Tipo 3PN117B	No indica	No indica	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+"""<option id="""	opcion588	""">"	Cava Térmica Roja	Decocar	No indica	No indica	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+"""<option id="""	opcion589	""">"	Cava Térmica Blanca	Coleman	No indica	No indica	"Laboratorio 9
+(Aguas)"	Funcionando	</option>
+
+			</optgroup >
+</optgroup >						
+									
+			<optgroup label=”Equipos_e_inmobiliarios_de_PDVSA_INTEVEP”>						
+Equipos e inmobiliarios de PDVSA-INTEVEP						</option>
+"""<option id="""	opcion595	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion596	""">"	Taburete de cuero negro	No indica	No indica	No indica	"Laboratorio 9
+(Aguas) Pertenece a PDVSA-INTEVEP"	Funcionando	</option>
+"""<option id="""	opcion597	""">"	Taburete de cuero negro con rueda	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Pertenece a PDVSA-INTEVEP"	Funcionando	</option>
+"""<option id="""	opcion598	""">"	Fregador de dos puertas	No indica	No indica	"9-128-0166
+Etiqueta 1999712628"	"Laboratorio 9
+(Aguas)
+Pared Izquierda
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion599	""">"	Dos (2) gabinetes de cinco (5) gavetas y una puerta	No indica	No indica	9-123-0165	"Laboratorio 9
+(Aguas)
+Pared Izquierda
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion600	""">"	Dos (2) extensiones de mesones de una gaveta.	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Pared Izquierda
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion601	""">"	Gabinete de cinco (5) gavetas	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Pared Izquierda
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion602	""">"	Gabinete de cuatro (4) gavetas	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Pared Izquierda
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion603	""">"	Gabinete de dos (2) puertas con campana corta de extracción de vapores	Vasconia	No indica	9-283-0140 Identificación 199712629	"Laboratorio 9
+(Aguas)
+Pared Izquierda
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion604	""">"	Gabinete de dos (2) puertas con campana corta de extracción de vapores	Vasconia	No indica	9-283-0141	"Laboratorio 9
+(Aguas)
+Mesón central lado Izquierdo
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion605	""">"	Gabinete de cuatro (4) gavetas	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Mesón central lado Izquierdo Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion606	""">"	Dos (2) gabinetes de cinco (5) gavetas y una puerta	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Mesón central lado Izquierdo
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion607	""">"	Dos (2) extensiones de mesones de una gaveta	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Mesón central lado Izquierdo
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion608	""">"	Gabinete de cinco (5) gavetas	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Mesón central lado Izquierdo
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion609	""">"	Dos (2) gabinetes de cinco (5) gavetas y una puerta	No indica	No indica	9-128-0165	"Laboratorio 9
+(Aguas)
+Mesón central lado derecho
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion610	""">"	Dos (2) extensiones de mesones de una gaveta	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Mesón central lado derecho
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion611	""">"	Gabinete de cinco (5) gavetas	No indica	No indica	9-128-0165	"Laboratorio 9
+(Aguas)
+Mesón central lado derecho
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion612	""">"	Gabinete de cuatro (4) gavetas	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Mesón central lado derecho
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion613	""">"	Gabinete de dos (2) puertas con campana corta de extracción de vapores	Vasconia	No indica	"9-283-0142
+ID 199712641"	"Laboratorio 9
+(Aguas)
+Mesón central lado derecho
+Pertenece a PDVSA-INTEVEP
+"	Instalado	</option>
+"""<option id="""	opcion614	""">"	Gabinete de dos (2) puertas con campana corta de extracción de vapores	Vasconia	No indica	9-283-0143	"Laboratorio 9
+(Aguas)
+Pared derecha
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion615	""">"	Gabinete de cuatro (4) gavetas	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Pared derecha
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion616	""">"	Dos (2) gabinetes de cinco (5) gavetas y una (1) puerta	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Pared derecha
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion617	""">"	Dos (2) extensiones de gabinetes	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Pared derecha
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion618	""">"	Gabinete de cinco (5) gavetas	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Pared derecha
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion619	""">"	Escritorio de cuatro (4) gavetas	No indica	No indica	9-231-0049	"Laboratorio 9
+(Aguas)
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion620	""">"	Cuatro (4) vitrinas de pared con puertas batientes de vidrio	No indica	No indica	"1.-64400000450
+ID 199711367
+2.-64400000449
+ID 199711370
+3.- ID 199711368
+4.- XXXXXXX"	"Laboratorio 9
+(Aguas)
+Pared derecha
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion621	""">"	Cinco (5) vitrinas de Pared con puertas de vidrio corredizas	No indica	No indica	"1.- 9-123-0095
+2.-XXXXX
+3.-9-123-0095
+4.- XXXXX
+5.- 9-123-0095"	"Laboratorio 9
+(Aguas)
+Pared Izquierda
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion622	""">"	Pizarra Acrílica	No indica	No indica	No indica	"Laboratorio 9
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion623	""">"	Cruz Roja	Metalúrgica USAC	No indica	No indica	"Laboratorio 9
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion624	""">"	Gabinete de piso con puertas batientes	No indica	No indica	No indica	"Laboratorio 9
+(Aguas)
+Pared Izquierda
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion625	""">"	Extintor de incendio de CO2	Ansul Sentry	No indica	PDVSA 200603659	"Laboratorio 9
+Pertenece a PDVSA-INTEVEP"	Funcionando	</option>
+"""<option id="""	opcion626	""">"	Aire Acondicionado	No indica	No indica	No indica	"Laboratorio 9
+Pertenece a PDVSA-INTEVEP"	Funcionando	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”LABORATORIO_1._(Secciones_Finas)”>						
+LABORATORIO 1. (Secciones Finas)						</option>
+<optgroup label=”Laboratorio_1”>
+Laboratorio 1						</option>
+"""<option id="""	opcion634	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion635	""">"	Debastadora	BUEHLER / Polimet I	285-CXX-R-1013	49381	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion636	""">"	Debastadora	BUEHLER / Polimet I	285-CXX-R-1012	55299	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion637	""">"	Pulidora Esmeriladora	BUEHLER / Polimet I000	641-TPM1-R-1680	3631	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion638	""">"	Centrifugadora	Thermo / K	71654814	2044	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion639	""">"	Cortadora manual de Roca	BUEHLER Delta Petrocut / 102156260	643DPET00121	3634	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion640	""">"	Recirculador de la Petrocut	"BUEHLER / Tipo SPV 12
+Mod 102165260"	"N° 09113
+643DARS00455"	3634	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion641	""">"	Sistema para seccionamientos de laminillas 	"BUEHLER / PETROTHIN
+10215626"	"641PTS00852
+(No se le ve el serial)"	3635	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion642	""">"	Sistema para seccionamientos de laminillas	BUEHLER / PETROTHIN	389-PTS-224	49384	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion643	""">"	Microscopio Optico	LEITZ WETZLAR	N° K65306	55295	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion644	""">"	Visor de secciones delgadas	BUEHLER / PETROVUE	543PV-00631	3632	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion645	""">"	Cortadora de roca manual	HIGHLAND PARK / 10T8B	10T8B76228	55296	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion646	""">"	Separador Magnético	FRANTZ / L-1	2188	2389	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion647	""">"	Estufa	MEMMERT / TV30µ	256022	15288	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion648	""">"	Estufa	MEMMERT / TV50µ	577316	35932	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion649	""">"	Balanza	Oertling	760353	55082	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion650	""">"	Balanza semi-analítica	-OHAUS / Explores Plus EP6101C	-J0801126012142P	1859	Laboratorio 1 de secciones finas	Dañada	</option>
+"""<option id="""	opcion651	""">"	Balanza semi-analítica	-Transformador Technologies INC / AP2805	-XXXX	1859	Laboratorio 1 de secciones finas	Dañada	</option>
+"""<option id="""	opcion652	""">"	Balanza semi-analítica	"-OHAUS / Explores Plus EP6101C
+
+
+-Transformador Technologies INC / AP2805"	"-J0801125380813P
+
+
+
+-P/N 490202-010"	2390	Laboratorio 1 de secciones finas	Dañada	</option>
+"""<option id="""	opcion653	""">"	Plancha de calentamiento y agitación	THERMOLYNE / SP-A1025B	24410356	49066	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion654	""">"	Plancha de calentamiento	Corning / Scholar 170	12700166382	2424	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion655	""">"	Mufla	THERMOLYNE / F-B1415M, Type 1400, Serie 186	912	55077	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion656	""">"	Balanza semi - analítica	Mettler P1000N	N°364950	35930	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion657	""">"	Centrifugadora	SORVALL / General Laboratory Centrifugue GLC-1	1403	7160	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion658	""">"	Ultrasonido	BROWILL / BIOSONIC IV mod BIO-IV	1731193	31931	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion659	""">"	Mesa Vibratoria. Syntron Magnetic Feeder con controlador, para separar micas	FMC / F-TO1A	"508581
+
+509547 Controlador"	55074	Laboratorio 1 de secciones finas	Funcionando	</option>
+"""<option id="""	opcion660	""">"	Baño de María	Grant Instruments / type BB2	45061	No indica	Laboratorio 1 de secciones finas	Dañado	</option>
+"""<option id="""	opcion661	""">"	Sin uso conocido	SPEX / WIG LBUG	Y56853	No tiene	Laboratorio 1 de secciones finas	Dañado	</option>
+"""<option id="""	opcion662	""">"	Registrador de plumillas	PHILLIPS / PM 8203/02	DJ021623	No tiene	Laboratorio 1 de secciones finas	Dañado Totalmente	</option>
+"""<option id="""	opcion663	""">"	Registrador de plumillas	PHILLIPS / PM 8203/02	DJ02046	52377	Laboratorio 1 de secciones finas	Dañado Totalmente	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”Equipos_e_inmuebles_de_PDVSA_INTEVEP”>						
+Equipos e inmuebles de PDVSA-INTEVEP						</option>
+"""<option id="""	opcion669	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion670	""">"	Cuatro (4) Gabinetes de pared de dos puertas	No indica	No indica	9-123-0054	"Laboratorio 1 de secciones finas. Pared izquierda.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion671	""">"	Tres (3) Vitrinas de pared con vidrio corredizo	No indica	No indica	9-123-0082	Laboratorio 1 de secciones finas . Pared Derecha. Pertenece a PDVSA-INTEVEP	Instalado	</option>
+"""<option id="""	opcion672	""">"	"1.- Tres (3) gabinetes de dos gavetas y dos puertas
+
+2.- Un (1) gabinete de ocho gavetas
+
+3.- Un (1) gabinete de cinco gavetas"	No indica	No indica	No indica	"Laboratorio 1 de secciones finas. Pared izquierda.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion673	""">"	Un (1) gabinete con fregador de dos puertas	No indica	No indica	No indica	"Laboratorio 1 de secciones finas. Mesón Central lado izquierdo
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion674	""">"	"1.- Un (1) gabinete de cuatro gavetas
+
+2.- Una (1) extensión de dos  gavetas
+
+3.-Un (1) gabinete de dos gavetas y dos puertas
+
+4.- Un (1) gabinete de ocho gavetas
+
+5.- Un (1) gabinete de cinco gavetas y una puerta
+"	No indica	No indica	No indica	"Laboratorio 1 de secciones finas.
+Mesón Central lado izquierdo
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion675	""">"	"1.-Un (1) gabinete con fregador de dos puertas
+
+2.- Dos (2) gabinetes de dos gavetas y dos puertas
+
+3.- Un (1) gabinete de cinco gavetas
+
+4.- Un (1) gabinete de ocho gavetas"	No indica	No indica	"9-128-0134
+
+9-128-0135"	"Laboratorio 1 de secciones finas. Mesón Central lado derecho
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion676	""">"	Escritorio de cinco gavetas y una puerta	No indica	No indica	9-231-0030	"Laboratorio 1 de secciones finas.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion677	""">"	"1.- Dos (2) Campanas de extracción de gases
+
+2.- Dos (2) gabinetes de dos puertas cada uno"	1.- Vasconia	No indica	"9-283-0097
+
+
+
+
+9-128-0593"	"Laboratorio 1 de secciones finas.
+Pared Derecha. Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion678	""">"	"1.- Un (1) gabinete de ocho gavetas
+
+2.-Un (1) gabinete de cinco gavetas
+
+3.-Un (1) gabinete de cuatro gavetas
+
+4.-Un (1) gabinete de dos gavetas y dos puertas
+5.- Un (1) gabinete con fregador y dos puertas"	No indica	No indica	"9-123-0135
+
+9-123-0136"	"Laboratorio 1 de secciones finas.
+Pared Derecha. Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion679	""">"	Escritorio de cuatro gavetas	No indica	No indica	No indica	"Laboratorio 1 de secciones finas.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion680	""">"	Mesón	No indica	No indica	No indica	"Laboratorio 1 de secciones finas.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion681	""">"	Mesón de madera marrón	No indica	No indica	231-0000-0130	"Laboratorio 1 de secciones finas.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion682	""">"	Silla de semi cuero negro giratoria con ruedas	No indica	No indica	No indica	"Laboratorio 1 de secciones finas.
+Pertenece a PDVSA-INTEVEP"	Funcionando	</option>
+"""<option id="""	opcion683	""">"	Silla de semi cuero negro giratoria con ruedas	No indica	No indica	No indica	"Laboratorio 1 de secciones finas.
+Pertenece a PDVSA-INTEVEP"	Funcionando	</option>
+"""<option id="""	opcion684	""">"	Taburete de semi cuero negro giratoria con ruedas	No indica	No indica	No indica	"Laboratorio 1 de secciones finas.
+Pertenece a PDVSA-INTEVEP"	Funcionando	</option>
+"""<option id="""	opcion685	""">"	Taburete de semi cuero negro giratoria con ruedas	No indica	No indica	No indica	"Laboratorio 1 de secciones finas.
+Pertenece a PDVSA-INTEVEP"	Funcionando	</option>
+"""<option id="""	opcion686	""">"	Pizarra acrílica blanca con marco de aluminio	No indica	No indica	No indica	"Laboratorio 1 de secciones finas.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion687	""">"	Pizarra de corcho con marco de aluminio	No indica	No indica	No indica	"Laboratorio 1 de secciones finas.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion688	""">"	Pizarra de corcho con marco de aluminio	No indica	No indica	No indica	"Laboratorio 1 de secciones finas.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion689	""">"	Silla de semi cuero negro giratoria con ruedas	No indica	No indica	No indica	"Laboratorio 1 de secciones finas.
+Pertenece a PDVSA-INTEVEP"	Funcionando	</option>
+"""<option id="""	opcion690	""">"	Archivador metálico de cuatro gavetas	No indica	No indica	No indica	"Laboratorio 1 de secciones finas.
+Pertenece a PDVSA-INTEVEP"	Funcionando	</option>
+"""<option id="""	opcion691	""">"	Cruz Roja	Metalúrgica USAC	No indica	No indica	"Laboratorio 1
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion692	""">"	Extintor de CO2	EXTINSA	N° U-411815	PDVSA 199715791	"Laboratorio 1
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion693	""">"	Aire Acondicionado	No indica	No indica	No indica	"Laboratorio 1
+Pertenece a PDVSA-INTEVEP"	"Instalado
+"	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”LABORATORIO_8”>						
+LABORATORIO 8						</option>
+<optgroup label=”Laboratorio_8”>
+Laboratorio 8						</option>
+"""<option id="""	opcion701	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion702	""">"	Molino Mezclador	RETSCH / MM200	"
+
+126160326M
+
+"	"
+
+3544
+
+"	Laboratorio 8	Funciona pero vino sin accesorio	</option>
+"""<option id="""	opcion703	""">"	"Desecador de gabinete metálico
+mediano"	BOEKEL	No indica	12650	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion704	""">"	Desecador de gabinete metálico pequeño	BOEKEL	No indica	14184	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion705	""">"	"Desecador de gabinete metálico
+mediano"	BOEKEL	No indica	13160	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion706	""">"	Pulidora de secciones finas	BUEHLER	Sin serial	6832	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion707	""">"	Pulverizador de molino con mortero de agata	RETSCH / MG2A	17630	55226	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion708	""">"	Estufa	memmert	Borrado	27896	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion709	""">"	Estufa	Memmert / TV40b	276162	14279	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion710	""">"	Estufa	BARNSTEAD/ 3513	1482050565685	2049	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion711	""">"	Computadora	1.-CPU: HP / Compaq	1.-MXJ65202QX	1.-6333	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion712	""">"	Computadora	2.- Monitor: HP / 7540	2.-CNN7051KPG	2.-XXXX	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion713	""">"	Computadora	3.- Teclado: HP/KB-0316	3.-1393CBOAVBSPO1Q	3.- XXXX	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion714	""">"	Computadora	4.- Mouse: HP	"4.-P/N 417441-001
+C/T:
+FB7330AN3TT2A"	4.-XXXX	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion715	""">"	Computadora	5.- Regulador de voltaje: CDP/B-AVR1006	5.-060828-1201445	5.-288 (8,6,0)	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion716	""">"	Prensa Automática	SPEX / X-PRESS 3635	10009	No Tiene	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion717	""">"	Prensa Manual	BUEHLER	284 ?	1855	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion718	""">"	Tamizadora	RO-TAP / RX-29	27274	55299	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion719	""">"	Tamizadora	CSC / MEINZER 11	0921-04	1854	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion720	""">"	Fotocolorímetro de UV-Visible	THERMO / Spectronic 20D+, Mod 333183	3DUJ095011	6490	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion721	""">"	Separador Magnético	FRANTZ / Mod L-1	570	7205	Laboratorio 8	No Probado	</option>
+"""<option id="""	opcion722	""">"	Espectrómetro de Absorción Atómica con Llamas (FAAS)	PERKIN ELMER / 5100PC	134402	55629	Laboratorio 8	No Instalado	</option>
+"""<option id="""	opcion723	""">"	Computadora del FAAS	1.-CPU: IBM / 300GL	-15628275S78KLHRP	-50	Laboratorio 8	No Instalado	</option>
+"""<option id="""	opcion724	""">"	Computadora del FAAS	2.- Monitor: IBM / 6540-00E	-23-CXCH7	-51	Laboratorio 8	No Instalado	</option>
+"""<option id="""	opcion725	""">"	Computadora del FAAS	3.- Teclado: IBM/KB-8926	-1188632	-52	Laboratorio 8	No Instalado	</option>
+"""<option id="""	opcion726	""">"	Computadora del FAAS	4.- Mouse: IBM /M-S34	-23-450808	-52	Laboratorio 8	No Instalado	</option>
+"""<option id="""	opcion727	""">"	Computadora del FAAS	5.- Regulador de voltaje: AVTEK / RL-125	-3481039	-55630	Laboratorio 8	No Instalado	</option>
+"""<option id="""	opcion728	""">"	Computadora del FAAS	6.-Fuente de poder EDL	-125288	-XXXX	Laboratorio 8	No Instalado	</option>
+"""<option id="""	opcion729	""">"	Balanza	OHAUS	No Tiene	No Tiene	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion730	""">"	Equipo de hacer hielo	BREMA / CB184A	2001070125680	545	Laboratorio 8	Operativo	</option>
+"""<option id="""	opcion731	""">"	Regulador de Voltaje	AVTEK / RPC PLUS	151001591	2398	Laboratorio 8	Sin Probar	</option>
+"""<option id="""	opcion732	""">"	Regulador de Voltaje	AVTEK / RPC PLUS	151001597	2396	Laboratorio 8	Sin Probar	</option>
+"""<option id="""	opcion733	""">"	Dos (2) mesones con dos gavetas.	Vasconia / Uno con entrepaño y el otro sin entrepaño	No indica	3405	Laboratorio 8	Instalado	</option>
+"""<option id="""	opcion734	""">"	Cartelera Acrílica grande	No indica	No indica	36555	Laboratorio 8	Sin Instalar	</option>
+"""<option id="""	opcion735	""">"	"Aire Acondicionado. FAN COIL para agua helada en 208/1/60.
+1Tr"	FRIOVEN / THF12AH	290420137571	No indica	Laboratorio 8	"Sin instalar.
+Tiene una pequeña fuga de gas, hay que repararlo.
+(Equipo suministrado por DEQUIMEN en reemplazo de los AA Extraviados durante la mudanza)"	</option>
+
+			</optgroup >
+</optgroup >						
+									
+			<optgroup label=”Equipos_e_inmuebles_de_PDVSA_INTEVEP”>						
+Equipos e inmuebles de PDVSA-INTEVEP						</option>
+"""<option id="""	opcion741	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion742	""">"	Campana de  gases con mesón de dos puertas	Vasconia	No indica	"Campana: 9-283-0568
+Mesón: 9-128-0607"	"Laboratorio 8
+Mesón central lado izquierdo.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion743	""">"	"1.-Un (1) mesón de tres gavetas
+2.- Dos (2) mesones de cuatro gavetas y una puerta
+3.-Dos (2) extensiones de una gaveta
+4.- Un (1) mesón de cuatro gavetas"	No indica	No indica	9-128-0607	"Laboratorio 8
+Mesón central lado Izquierdo.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion744	""">"	Campana de  gases con mesón de dos puertas	No indica	No indica	"9-283-0567
+9-128-0607"	"Laboratorio 8
+Mesón central lado derecho.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion745	""">"	"1.-Un (1) mesón de tres gavetas
+2.- Dos (2) mesones de cuatro gavetas y una puerta
+3.-Dos (2) extensiones de una gaveta
+4.- Un (1) mesón de cuatro gavetas"	No indica	No indica	9-128-0607	"Laboratorio 8
+Mesón central lado derecho.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion746	""">"	Campana de  gases con mesón de dos puertas	No indica	No indica	"9-283-0566
+9-128-0607"	"Laboratorio 8
+Mesón del lado derecho.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion747	""">"	"1.-Un (1) mesón de tres gavetas
+2.- Dos (2) mesones de cuatro gavetas y una puerta
+3.-Dos (2) extensiones de una gaveta
+4.- Un (1) mesón de cuatro gavetas"	No indica	No indica	9-128-0607	"Laboratorio 8
+Mesón derecho
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion748	""">"	Fregador con dos puertas	No indica	No indica	9-128-0608	"Laboratorio 8
+Mesón derecho
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion749	""">"	Seis (6) vitrinas de vidrio corredizas	No indica	No indica	"9-123-0542
+1.-199712222
+2.-199712223
+3.-199712224
+4.-XXXXXXXXX
+5.-199712250
+6.-199712249"	"Laboratorio 8
+Pared del lado derecho.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion750	""">"	Mesón de cuatro gavetas	No indica	No indica	9-231-0523	"Laboratorio 8.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion751	""">"	Mesón de cuatro gavetas y una puerta	No indica	No indica	9-128-0607	"Laboratorio 8. Cubículo
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion752	""">"	Mesón	No indica	No indica	9-725-0533	"Laboratorio 8.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion753	""">"	Mesón de madera	No indica	No indica	No indica	"Laboratorio 8.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion754	""">"	Archivo metálico marrón	No indica	No indica	12400000339	"Laboratorio 8.
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion755	""">"	Taburete con rueda y cojin negro de semi-cuero	No indica	No indica	No indica	"Laboratorio 8.
+Pertenece a PDVSA- INTEVEP"	Operativo	</option>
+"""<option id="""	opcion756	""">"	Silla giratoria con espaldar y apoya brazo de semi-cuero negro	No indica	No indica	No indica	"Laboratorio 8.
+Pertenece a PDVSA- INTEVEP"	Operativo	</option>
+"""<option id="""	opcion757	""">"	Silla giratoria con espaldar y apoya brazo de semi-cuero negro	No indica	No indica	No indica	"Laboratorio 8.
+Pertenece a PDVSA- INTEVEP"	Operativo	</option>
+"""<option id="""	opcion758	""">"	Aire Acondicionado	No indica	No indica	No indica	"Laboratorio 8.
+Pertenece a PDVSA- INTEVEP"	Operativo	</option>
+"""<option id="""	opcion759	""">"	Cartelera Acrílica pequeña	No indica	No indica	No indica	"Laboratorio 8
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion760	""">"	Teléfono	Panasonic / KX-TS105LXW	4DAKB164808	No indica	"Laboratorio 8
+Pertenece a PDVSA-INTEVEP"	Sin Instalar	</option>
+"""<option id="""	opcion761	""">"	Caja de la Cruz Roja	METALURGICA USAC	No indica	7591858000128	"Laboratorio 8
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+"""<option id="""	opcion762	""">"	Extintor de CO2	Ansul SENTRY	No indica	PDVSA 200603693	"Laboratorio 8
+Pertenece a PDVSA-INTEVEP"	Instalado	</option>
+
+			</optgroup >						
+									
+			<optgroup label=”PERIFERIAS”>						
+PERIFERIAS						</option>
+<optgroup label=”Equipos_ubicados_en_los_galpones_de_INTEVEP_(Servicios_Generales)”>
+Equipos ubicados en los galpones de INTEVEP (Servicios Generales)						</option>
+"""<option id="""	opcion770	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion771	""">"	Compresor de aire del ICP OES	SOMAR / MOD NR 13  	2402219	6487	Galpón de servicios generales INTEVEP	Sin Instalar	</option>
+"""<option id="""	opcion772	""">"	Compresor de aire del Captapolvo, 300L, 5 HP	CERMEC	No indica	3646	Galpón de servicios generales INTEVEP	Sin Instalar	</option>
+
+			</optgroup >
+</optgroup >						
+									
+			<optgroup label=”Norte_3”>						
+Norte 3						</option>
+"""<option id="""	opcion778	""">"	EQUIPO	MARCA/MODELO	SERIAL	BN	UBICACION	ESTATUS	</option>
+"""<option id="""	opcion779	""">"	HORNO SECADO DE 2 m3	LABTECH ESSA / MOD D02ME	0210M0207	3636	Sótano del estacionamiento del edificio de Norte 3 en INTEVEP	Sin instalar	</option>
+"""<option id="""	opcion780	""">"	Pulverizadora	LABTECH ESSA / Mod LM2-P 	213820-013	3637	Sótano del estacionamiento del edificio de Norte 3 en INTEVEP	Sin instalar	</option>
+"""<option id="""	opcion781	""">"	Dos (2) Extratores de gases de las campana labconco	Labconco	No indica	No indica	Sótano del estacionamiento del edificio de Norte 3 en INTEVEP	Sin instalar	</option>
+"""<option id="""	opcion782	""">"	Trituradora de mandíbula de flujo continuo con cuarteadora	ROCKLABS / Mod MKIII	1466	"2912 Trituradora
+2913 Cuarteadora"	Sótano del estacionamiento del edificio de Norte 3 en INTEVEP	Sin instalar	</option>
+"""<option id="""	opcion783	""">"	Capta polvo	DONALDSON TORIT	No indica	5105	Sótano del estacionamiento del edificio de Norte 3 en INTEVEP	Sin instalar	</option>
+			</optgroup >						

@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>Documento sin t&iacute;tulo</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <script language="javascript">
+          function actualizar(select){
+            var val = select.value;
+            document.getElementById('eltexto').value += val;
+            document.getElementById('eltexto2').value += val;
+}
+        </Script>
+    </head>
+    <body>
+        <form>
+            <select  onChange="actualizar(this)">
+                <option id="opcion1">Ampolleta70</option>
+                <option id="opcion2">Ampolleta120</option>
+                <option id="opcion2">oAmpolleta 1200</option>
+            </select>
+            <br>
+            <textarea id="eltexto" rows="10" cols="40"></textarea>
+        </form>
+        <br><br>
+        <form>
+            <ul  onChange="actualizar(this)">                
+                <li id= “li1”>	I.- ANÁLISIS PETROGRÁFICO Y MINEROGRÁFICO			</li>
+                <li id= “li2”>	CODIGO	DESCRIPCIÓN	PRECIO EN $ POR MUESTRA	</li>
+                <li id= “li3”>	PP-01	Corte de taco para sección petrográfica	3,6	</li>
+                <li id= “li4”>	PP-02	Sección petrográfica normal (5,5 x 3,0 cm) de roca deleznable	8	</li>
+                <li id= “li5”>	PP-03	Sección petrográfica normal (5,5 x 3,0 cm) de roca consistente	6,16	</li>
+                
+            </ul>
+            <br>
+            <textarea id="eltexto2" rows="10" cols="40"></textarea>
+        </form>
+    </body>
+</html>
